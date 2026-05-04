@@ -68,6 +68,79 @@ Idée à double valeur : outil pour soi + potentiel produit. Commencer par l'usa
 
 ---
 
+## IDÉE 003 — Générateur de pistes marque employeur
+**Date de capture** : 2026-04-29
+**Statut** : 🌱 Exploration initiale
+**Source** : Arnaud (session brainstorm LAB DIAMS)
+**Secteur** : SaaS / RH / Marque employeur
+
+### Description
+Une entreprise décrit qui elle est (secteur, taille, métiers, enjeux RH, valeurs). L'outil génère des pistes de communication marque employeur + une lecture des conséquences possibles (ce que ça implique de dire ou de ne pas dire).
+
+### Lien stratégique
+- Offre 1 (désirabilité des métiers / attractivité)
+- Porte d'entrée 1 (mini-diagnostic lisibilité / désirabilité)
+
+### Format envisagé
+- Formulaire structuré (10-15 questions max)
+- Restitution en PDF ou page HTML légère
+- Niveau de maturité : basse (démonstrateur)
+
+### Questions à valider
+- [ ] Outil externe (Lab) ou porte d'entrée commerciale ?
+- [ ] Quel niveau d'information donner sans "trop dévoiler la cuisine" ?
+- [ ] Version manuelle (fiche) vs version IA interactive ?
+
+---
+
+## IDÉE 004 — Mini-diagnostiqueur marque employeur / e-réputation RH
+**Date de capture** : 2026-04-29
+**Statut** : 🌱 Exploration initiale
+**Source** : Arnaud (session brainstorm LAB DIAMS)
+**Secteur** : SaaS / RH / Marque employeur
+
+### Description
+L'organisation teste sa communication recrutement et son e-réputation. L'outil donne des notes et des jauges sur plusieurs dimensions (lisibilité, désirabilité, cohérence, crédibilité). En fin de parcours : CTA "on peut vous aider à améliorer ça".
+
+### Lien stratégique
+- Porte d'entrée 1 (diagnostic lisibilité / désirabilité)
+- Offre 1 (désirabilité métiers / attractivité)
+
+### Format envisagé
+- Formulaire + scoring automatisé
+- Restitution visuelle (jauges, radar, score global)
+- CTA modal fixe "Allons plus loin"
+
+### Vigilance
+- Outil réplicable facilement → la différenciation est dans la grille de lecture, pas dans l'outil
+- Ne pas trop exposer la méthode de scoring
+
+---
+
+## IDÉE 005 — Outil de mise au point stratégique commerciale
+**Date de capture** : 2026-04-29
+**Statut** : 🌱 Exploration initiale
+**Source** : Arnaud (session brainstorm LAB DIAMS)
+**Secteur** : SaaS / Stratégie commerciale / Consulting
+
+### Description
+Aide une organisation à faire le point sur ses objectifs commerciaux, ce qu'elle a déjà en place, et les écarts. Génère une mini-strat indicative. DAJM propose ensuite un accompagnement sur les solutions identifiées (SEO, Google Search, site web, production audiovisuelle, contenu, notoriété...).
+
+### Lien stratégique
+- Porte d'entrée transversale (toutes offres)
+- Produit d'appel : capture d'information + ouverture vers accompagnement
+
+### Format envisagé
+- Questionnaire structuré (besoin + existant + ambition)
+- Restitution : cartographie des priorités + recommandations macro
+- CTA : "On a ce qu'il faut pour vous accompagner"
+
+### Vigilance
+- Trouver le bon niveau de générosité : assez utile pour engager, pas assez complet pour remplacer la mission
+- Cet outil = porte d'entrée, pas Lab → à clarifier dans la classification
+
+---
+
 ## 📥 Backlog Idées Brutes
 
 *(idées mentionnées rapidement, à développer)*
