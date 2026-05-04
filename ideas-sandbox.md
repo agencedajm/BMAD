@@ -141,6 +141,49 @@ Aide une organisation à faire le point sur ses objectifs commerciaux, ce qu'ell
 
 ---
 
+## IDÉE 006 — Agent de prospection personnalisée (recherche + lead magnet + séquence)
+**Date de capture** : 2026-05-04
+**Statut** : 🌱 Exploration initiale
+**Secteur** : Outil B2B / Automatisation / Sales Intelligence
+
+### Description
+Agent IA qui automatise la prospection sans tomber dans l'industrialisation froide. Pipeline en 5 étapes :
+1. **Input contact** : identité, entreprise, poste
+2. **Recherche approfondie** : tout ce qui permet de connaître la personne (LinkedIn, publications, actualité entreprise, signaux faibles)
+3. **Proposition de lead magnets adaptés** : livres blancs courts, playbooks, checklists — sélectionnés selon le profil et les convergences détectées
+4. **Développement du lead magnet** : génération du contenu adapté à la cible
+5. **Planification d'envoi** : recommandation de stratégie + scénarisation/planification des échanges
+
+### Philosophie
+Maximiser les chances du premier contact en trouvant : points communs, convergences, points de friction où on peut apporter de la valeur. Automatisation maximale, chaleur humaine préservée.
+
+### Lien avec Idée 002
+Version évoluée et plus complète de l'Idée 002 — là où l'002 s'arrête à la détection des pain points et la rédaction du message, l'006 va jusqu'à la création de contenu et la séquence complète.
+
+### Modèle économique envisagé
+- Usage interne DAJM d'abord (validation par le terrain)
+- Potentiel SaaS B2B : consultants, agences, indépendants B2B
+- Pricing possible : par crédit (par contact traité) ou abonnement mensuel
+
+### Forces identifiées
+- Pipeline complet de bout en bout (rare sur le marché)
+- Différenciation par la profondeur de recherche + pertinence du lead magnet
+- Dogfooding naturel : DAJM est son propre utilisateur test
+
+### Questions à valider
+- [ ] Contraintes légales sur la collecte de données personnelles (RGPD)
+- [ ] Contraintes LinkedIn sur l'accès aux données publiques
+- [ ] Quels signaux déclencheurs prioritaires ? (changement de poste, levée de fonds, recrutement...)
+- [ ] Le lead magnet généré est-il suffisamment qualitatif pour ne pas nuire à la marque ?
+- [ ] Clay.com, Apollo, Lemlist + IA — quelle est la vraie différenciation ?
+- [ ] Intégration avec outils existants (HubSpot, Notion, Gmail) ?
+
+### Vigilance
+- Le risque est de créer un outil de spam sophistiqué — la valeur est dans la sélectivité, pas le volume
+- La génération de lead magnets doit être contrôlée/validée par l'humain avant envoi
+
+---
+
 ## 📥 Backlog Idées Brutes
 
 *(idées mentionnées rapidement, à développer)*
