@@ -73,6 +73,7 @@ Idée à double valeur : outil pour soi + potentiel produit. Commencer par l'usa
 **Statut** : 🌱 Exploration initiale
 **Source** : Arnaud (session brainstorm LAB DIAMS)
 **Secteur** : SaaS / RH / Marque employeur
+**Appartenance** : DAJM
 
 ### Description
 Une entreprise décrit qui elle est (secteur, taille, métiers, enjeux RH, valeurs). L'outil génère des pistes de communication marque employeur + une lecture des conséquences possibles (ce que ça implique de dire ou de ne pas dire).
@@ -98,6 +99,7 @@ Une entreprise décrit qui elle est (secteur, taille, métiers, enjeux RH, valeu
 **Statut** : 🌱 Exploration initiale
 **Source** : Arnaud (session brainstorm LAB DIAMS)
 **Secteur** : SaaS / RH / Marque employeur
+**Appartenance** : DAJM
 
 ### Description
 L'organisation teste sa communication recrutement et son e-réputation. L'outil donne des notes et des jauges sur plusieurs dimensions (lisibilité, désirabilité, cohérence, crédibilité). En fin de parcours : CTA "on peut vous aider à améliorer ça".
@@ -122,6 +124,7 @@ L'organisation teste sa communication recrutement et son e-réputation. L'outil 
 **Statut** : 🌱 Exploration initiale
 **Source** : Arnaud (session brainstorm LAB DIAMS)
 **Secteur** : SaaS / Stratégie commerciale / Consulting
+**Appartenance** : DAJM
 
 ### Description
 Aide une organisation à faire le point sur ses objectifs commerciaux, ce qu'elle a déjà en place, et les écarts. Génère une mini-strat indicative. DAJM propose ensuite un accompagnement sur les solutions identifiées (SEO, Google Search, site web, production audiovisuelle, contenu, notoriété...).
@@ -145,6 +148,7 @@ Aide une organisation à faire le point sur ses objectifs commerciaux, ce qu'ell
 **Date de capture** : 2026-05-04
 **Statut** : 🌱 Exploration initiale
 **Secteur** : Outil B2B / Automatisation / Sales Intelligence
+**Appartenance** : DAJM (usage interne + potentiel produit)
 
 ### Description
 Agent IA qui automatise la prospection sans tomber dans l'industrialisation froide. Pipeline en 5 étapes :
@@ -182,12 +186,13 @@ Version évoluée et plus complète de l'Idée 002.
 **Date de capture** : 2026-05-06
 **Statut** : 🌱 Exploration initiale
 **Secteur** : SaaS / RH / Outils candidats
+**Appartenance** : DAJM
 
 ### Description
 Outil qui réécrit et met en page un CV de façon hyper-contextualisée par rapport à une offre d'emploi spécifique. Pipeline en 4 étapes :
 1. **Input** : le candidat dépose son CV + ses informations personnelles + le texte ou lien de l'annonce
-2. **Recherche approfondie** : l'outil analyse l'entreprise (culture, actualité, valeurs, enjeux), le poste (compétences attendues, vocabulaire, signaux implicites) et tous les angles pertinents pour ce profil
-3. **Réécriture éditoriale** : le CV est retravillé en profondeur — sélection des expériences les plus pertinentes, formulation alignée sur les codes de l'entreprise, mise en valeur des convergences profil/poste
+2. **Recherche approfondie** : l'outil analyse l'entreprise (culture, actualité, valeurs, enjeux), le poste (compétences attendues, vocabulaire, signaux implicites)
+3. **Réécriture éditoriale** : sélection des expériences les plus pertinentes, formulation alignée sur les codes de l'entreprise, mise en valeur des convergences profil/poste
 4. **Output** : CV mis en page, prêt à l'emploi (PDF ou export structuré)
 
 ### Philosophie
@@ -212,7 +217,7 @@ Ne pas juste "adapter" le CV — le redéployer stratégiquement pour que chaque
 - [ ] B2C ou B2B en priorité ?
 
 ### Vigilance
-- Marché encombré : beaucoup d'outils CV + IA existent déjà, la différenciation doit être très claire
+- Marché encombré : la différenciation doit être très claire
 - La mise en page automatique est techniquement complexe (rendu PDF fidèle)
 - Risque de produire des CV "trop parfaits" qui sonnent faux aux recruteurs humains
 
@@ -230,3 +235,10 @@ Ne pas juste "adapter" le CV — le redéployer stratégiquement pour que chaque
 
 - **Prochaine action suggérée** : Interview 5 entrepreneurs sur l'Idée 001 avant tout développement
 - **Priorité Mary** : Clarifier si le coaching ou le SaaS est le vrai coeur de valeur de l'Idée 001
+
+### 🔍 Cluster stratégique identifié — Écosystème RH DAJM
+Les idées 003, 004 et 007 forment un triptyque cohérent autour du marché RH, vu des deux côtés :
+- **Côté entreprise** : 003 (marque employeur) + 004 (diagnostic e-réputation RH) → aider les organisations à mieux attirer
+- **Côté candidat** : 007 (CV contextualisé) → aider les individus à mieux convaincre
+
+C'est le même marché RH, les deux faces d'un même problème. Une marque DAJM positionnée sur "l'attractivité RH" pourrait couvrir les deux avec une cohérence forte. À challenger.
