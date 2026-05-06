@@ -158,17 +158,12 @@ Agent IA qui automatise la prospection sans tomber dans l'industrialisation froi
 Maximiser les chances du premier contact en trouvant : points communs, convergences, points de friction où on peut apporter de la valeur. Automatisation maximale, chaleur humaine préservée.
 
 ### Lien avec Idée 002
-Version évoluée et plus complète de l'Idée 002 — là où l'002 s'arrête à la détection des pain points et la rédaction du message, l'006 va jusqu'à la création de contenu et la séquence complète.
+Version évoluée et plus complète de l'Idée 002.
 
 ### Modèle économique envisagé
 - Usage interne DAJM d'abord (validation par le terrain)
 - Potentiel SaaS B2B : consultants, agences, indépendants B2B
 - Pricing possible : par crédit (par contact traité) ou abonnement mensuel
-
-### Forces identifiées
-- Pipeline complet de bout en bout (rare sur le marché)
-- Différenciation par la profondeur de recherche + pertinence du lead magnet
-- Dogfooding naturel : DAJM est son propre utilisateur test
 
 ### Questions à valider
 - [ ] Contraintes légales sur la collecte de données personnelles (RGPD)
@@ -176,11 +171,50 @@ Version évoluée et plus complète de l'Idée 002 — là où l'002 s'arrête �
 - [ ] Quels signaux déclencheurs prioritaires ? (changement de poste, levée de fonds, recrutement...)
 - [ ] Le lead magnet généré est-il suffisamment qualitatif pour ne pas nuire à la marque ?
 - [ ] Clay.com, Apollo, Lemlist + IA — quelle est la vraie différenciation ?
-- [ ] Intégration avec outils existants (HubSpot, Notion, Gmail) ?
 
 ### Vigilance
 - Le risque est de créer un outil de spam sophistiqué — la valeur est dans la sélectivité, pas le volume
-- La génération de lead magnets doit être contrôlée/validée par l'humain avant envoi
+- La génération de lead magnets doit être validée par l'humain avant envoi
+
+---
+
+## IDÉE 007 — Générateur de CV hyper-contextualisé
+**Date de capture** : 2026-05-06
+**Statut** : 🌱 Exploration initiale
+**Secteur** : SaaS / RH / Outils candidats
+
+### Description
+Outil qui réécrit et met en page un CV de façon hyper-contextualisée par rapport à une offre d'emploi spécifique. Pipeline en 4 étapes :
+1. **Input** : le candidat dépose son CV + ses informations personnelles + le texte ou lien de l'annonce
+2. **Recherche approfondie** : l'outil analyse l'entreprise (culture, actualité, valeurs, enjeux), le poste (compétences attendues, vocabulaire, signaux implicites) et tous les angles pertinents pour ce profil
+3. **Réécriture éditoriale** : le CV est retravillé en profondeur — sélection des expériences les plus pertinentes, formulation alignée sur les codes de l'entreprise, mise en valeur des convergences profil/poste
+4. **Output** : CV mis en page, prêt à l'emploi (PDF ou export structuré)
+
+### Philosophie
+Ne pas juste "adapter" le CV — le redéployer stratégiquement pour que chaque mot résonne avec ce que l'entreprise cherche vraiment, y compris ce qu'elle ne dit pas explicitement dans l'annonce.
+
+### Modèle économique envisagé
+- Freemium : 1 CV gratuit, ensuite par crédit ou abonnement
+- Cible B2C : candidats actifs (cadres en reconversion, jeunes diplômés, indépendants)
+- Cible B2B possible : cabinets de recrutement, cabinets de bilan de compétences, écoles
+
+### Forces identifiées
+- Problème universel et douloureux : tout le monde a un CV générique
+- Marché de masse : chaque candidat est un utilisateur potentiel
+- Différenciation par la profondeur de recherche sur l'entreprise (pas juste du matching de mots-clés)
+- Output concret et immédiatement utilisable
+
+### Questions à valider
+- [ ] Concurrents directs ? (Resume.io, Kickresume, Rezi, EnhancV + IA) — quelle est la vraie différenciation ?
+- [ ] La recherche approfondie sur l'entreprise est-elle vraiment exécutable automatiquement ?
+- [ ] Quel format de sortie ? (PDF mis en page, Google Doc, HTML...)
+- [ ] Le candidat fait-il confiance à un outil pour réécrire son CV à 100% ou veut-il garder la main ?
+- [ ] B2C ou B2B en priorité ?
+
+### Vigilance
+- Marché encombré : beaucoup d'outils CV + IA existent déjà, la différenciation doit être très claire
+- La mise en page automatique est techniquement complexe (rendu PDF fidèle)
+- Risque de produire des CV "trop parfaits" qui sonnent faux aux recruteurs humains
 
 ---
 
