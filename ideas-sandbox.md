@@ -223,6 +223,34 @@ Ne pas juste "adapter" le CV — le redéployer stratégiquement pour que chaque
 
 ---
 
+## IDÉE 008 — Partenariats stratégiques avec agences et cabinets de communication externe
+**Date de capture** : 2026-05-12
+**Statut** : 🌱 Exploration initiale
+**Source** : Arnaud
+**Secteur** : Développement commercial / Réseau / Communication
+**Appartenance** : DAJM
+
+### Description
+Contacter des agences et cabinets de communication externe pour établir des partenariats stratégiques. DAJM pourrait intervenir en sous-traitance, co-traitance ou en apport mutuel de compétences (IA, marque employeur, production digitale).
+
+### Lien stratégique
+- Développement commercial indirect (prescripteurs)
+- Élargissement du réseau sans prospection directe
+- Positionnement comme acteur complémentaire, pas concurrent
+
+### Pistes à explorer
+- Agences de com' généralistes cherchant une expertise IA / marque employeur
+- Cabinets RH / recrutement avec besoin de production de contenu
+- Studios créatifs sans expertise conseil stratégique
+
+### Questions à valider
+- [ ] Quel modèle de partenariat ? (co-traitance, apport d'affaires, marque blanche ?)
+- [ ] Comment se positionner pour ne pas être perçu comme concurrent ?
+- [ ] Quels critères pour choisir les bons partenaires ?
+- [ ] Qui contacter en premier ? (taille, géographie, spécialité)
+
+---
+
 ## 📥 Backlog Idées Brutes
 
 *(idées mentionnées rapidement, à développer)*
