@@ -1,0 +1,27 @@
+{
+    "ideas": [
+        {
+            "id": "e3b30cf4-7f1c-45a9-87f9-134bddaedac9",
+            "created_at": "2026-05-12T19:11:49+02:00",
+            "category": "Produit SaaS",
+            "score": 6.9,
+            "score_details": {
+                "faisabilite": 7,
+                "utilisabilite": 7,
+                "pertinence": 6,
+                "saas": 8,
+                "vitesse": 6
+            },
+            "versions": [
+                {
+                    "version": 1,
+                    "created_at": "2026-05-12T19:11:49+02:00",
+                    "transcript": "Je voudrais créer des patchs, de faire de la gamification sur des outils et que par jalons, quand les personnes atteignent un certain niveau, comme Local Guide sur Google, les gens acquièrent des skills qui sont personnalisés. C'est-à-dire qu'en fin de compte, il se crée un portfolio de skills qu'ils pourraient transporter dans leurs différentes entreprises.",
+                    "title": "Portfolio de skills gamifié et portable",
+                    "summary": "Un système de badges et jalons permettant aux utilisateurs d'acquérir des compétences certifiées via la gamification. Chaque skill validé s'intègre dans un portfolio personnel transportable d'une entreprise à l'autre, inspiré du modèle Local Guides de Google.",
+                    "score": 6.9
+                }
+            ]
+        }
+    ]
+}
