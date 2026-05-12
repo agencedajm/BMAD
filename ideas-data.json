@@ -1,0 +1,119 @@
+{
+  "ideas": [
+    {
+      "id": "a1b2c3d4-0001-4000-8000-000000000001",
+      "created_at": "2026-04-29T00:00:00+02:00",
+      "category": "Produit SaaS",
+      "score": 8.2,
+      "score_details": {
+        "faisabilite": 8,
+        "utilisabilite": 9,
+        "pertinence": 9,
+        "saas": 7,
+        "vitesse": 8
+      },
+      "versions": [
+        {
+          "version": 1,
+          "created_at": "2026-04-29T00:00:00+02:00",
+          "transcript": "Une organisation teste sa communication recrutement et son e-réputation. L'outil donne des notes et des jauges sur plusieurs dimensions : lisibilité, désirabilité, cohérence, crédibilité. En fin de parcours : CTA 'on peut vous aider à améliorer ça'.",
+          "title": "Mini-diagnostiqueur marque employeur",
+          "summary": "Un outil de scoring visuel qui évalue la communication recrutement d'une organisation sur 4 dimensions clés, avec jauges et radar. Porte d'entrée directe vers l'offre DAJM.",
+          "score": 8.2
+        }
+      ]
+    },
+    {
+      "id": "a1b2c3d4-0002-4000-8000-000000000002",
+      "created_at": "2026-04-29T00:00:00+02:00",
+      "category": "Produit SaaS",
+      "score": 8.0,
+      "score_details": {
+        "faisabilite": 8,
+        "utilisabilite": 8,
+        "pertinence": 9,
+        "saas": 7,
+        "vitesse": 8
+      },
+      "versions": [
+        {
+          "version": 1,
+          "created_at": "2026-04-29T00:00:00+02:00",
+          "transcript": "Une entreprise décrit qui elle est : secteur, taille, métiers, enjeux RH, valeurs. L'outil génère des pistes de communication marque employeur plus une lecture des conséquences possibles — ce que ça implique de dire ou de ne pas dire.",
+          "title": "Générateur de pistes marque employeur",
+          "summary": "Formulaire structuré qui génère des pistes de communication marque employeur personnalisées + analyse des implications stratégiques. Lien direct avec l'offre attractivité et désirabilité DAJM.",
+          "score": 8.0
+        }
+      ]
+    },
+    {
+      "id": "a1b2c3d4-0003-4000-8000-000000000003",
+      "created_at": "2026-05-11T00:00:00+02:00",
+      "category": "Produit SaaS",
+      "score": 7.3,
+      "score_details": {
+        "faisabilite": 6,
+        "utilisabilite": 9,
+        "pertinence": 7,
+        "saas": 9,
+        "vitesse": 5
+      },
+      "versions": [
+        {
+          "version": 1,
+          "created_at": "2026-05-11T00:00:00+02:00",
+          "transcript": "Des personnes gagnent des badges, elles ont la capacité de débloquer des skills qui pourraient leur servir dans leur vie personnelle, professionnelle et sur leur parcours. Un outil de gamification pluggable sur n'importe quelle plateforme qui génère des skills à partir de ce que les utilisateurs font vraiment, et leur appartient à eux personnellement.",
+          "title": "Gamification & Passeport de compétences IA",
+          "summary": "Moteur de gamification pluggable qui génère des skills personnalisés via IA selon ce que l'utilisateur fait vraiment. Passeport de compétences portable et exportable — disruptif mais complexe à construire.",
+          "score": 7.3
+        }
+      ]
+    },
+    {
+      "id": "a1b2c3d4-0004-4000-8000-000000000004",
+      "created_at": "2026-04-29T00:00:00+02:00",
+      "category": "Développement commercial",
+      "score": 7.5,
+      "score_details": {
+        "faisabilite": 8,
+        "utilisabilite": 8,
+        "pertinence": 8,
+        "saas": 6,
+        "vitesse": 8
+      },
+      "versions": [
+        {
+          "version": 1,
+          "created_at": "2026-04-29T00:00:00+02:00",
+          "transcript": "Un outil qui aide une organisation à faire le point sur ses objectifs commerciaux, ce qu'elle a déjà en place et les écarts. Génère une mini-strat indicative. DAJM propose ensuite un accompagnement sur les solutions identifiées : SEO, Google Search, site web, production audiovisuelle, contenu, notoriété.",
+          "title": "Mise au point stratégique commerciale",
+          "summary": "Questionnaire structuré qui cartographie les priorités commerciales d'une organisation et génère des recommandations macro. Porte d'entrée transversale vers toutes les offres DAJM.",
+          "score": 7.5
+        }
+      ]
+    },
+    {
+      "id": "a1b2c3d4-0005-4000-8000-000000000005",
+      "created_at": "2026-05-12T00:00:00+02:00",
+      "category": "Développement commercial",
+      "score": 6.8,
+      "score_details": {
+        "faisabilite": 9,
+        "utilisabilite": 6,
+        "pertinence": 8,
+        "saas": 3,
+        "vitesse": 9
+      },
+      "versions": [
+        {
+          "version": 1,
+          "created_at": "2026-05-12T00:00:00+02:00",
+          "transcript": "Contacter des agences et cabinets de communication externe pour établir des partenariats stratégiques. DAJM pourrait intervenir en sous-traitance, co-traitance ou en apport mutuel de compétences sur l'IA, la marque employeur, la production digitale.",
+          "title": "Partenariats avec agences de communication",
+          "summary": "Développement commercial indirect via partenariats agences : co-traitance, apport d'affaires, marque blanche. Positionnement DAJM comme acteur complémentaire spécialisé IA + marque employeur.",
+          "score": 6.8
+        }
+      ]
+    }
+  ]
+}
