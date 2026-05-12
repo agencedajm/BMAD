@@ -1,117 +1,122 @@
 {
   "ideas": [
     {
-      "id": "a1b2c3d4-0001-4000-8000-000000000001",
-      "created_at": "2026-04-29T00:00:00+02:00",
-      "category": "Produit SaaS",
-      "score": 8.2,
-      "score_details": {
-        "faisabilite": 8,
-        "utilisabilite": 9,
-        "pertinence": 9,
-        "saas": 7,
-        "vitesse": 8
-      },
-      "versions": [
-        {
-          "version": 1,
-          "created_at": "2026-04-29T00:00:00+02:00",
-          "transcript": "Une organisation teste sa communication recrutement et son e-réputation. L'outil donne des notes et des jauges sur plusieurs dimensions : lisibilité, désirabilité, cohérence, crédibilité. En fin de parcours : CTA 'on peut vous aider à améliorer ça'.",
-          "title": "Mini-diagnostiqueur marque employeur",
-          "summary": "Un outil de scoring visuel qui évalue la communication recrutement d'une organisation sur 4 dimensions clés, avec jauges et radar. Porte d'entrée directe vers l'offre DAJM.",
-          "score": 8.2
-        }
-      ]
-    },
-    {
-      "id": "a1b2c3d4-0002-4000-8000-000000000002",
-      "created_at": "2026-04-29T00:00:00+02:00",
-      "category": "Produit SaaS",
-      "score": 8.0,
-      "score_details": {
-        "faisabilite": 8,
-        "utilisabilite": 8,
-        "pertinence": 9,
-        "saas": 7,
-        "vitesse": 8
-      },
-      "versions": [
-        {
-          "version": 1,
-          "created_at": "2026-04-29T00:00:00+02:00",
-          "transcript": "Une entreprise décrit qui elle est : secteur, taille, métiers, enjeux RH, valeurs. L'outil génère des pistes de communication marque employeur plus une lecture des conséquences possibles — ce que ça implique de dire ou de ne pas dire.",
-          "title": "Générateur de pistes marque employeur",
-          "summary": "Formulaire structuré qui génère des pistes de communication marque employeur personnalisées + analyse des implications stratégiques. Lien direct avec l'offre attractivité et désirabilité DAJM.",
-          "score": 8.0
-        }
-      ]
-    },
-    {
-      "id": "a1b2c3d4-0003-4000-8000-000000000003",
-      "created_at": "2026-05-11T00:00:00+02:00",
-      "category": "Produit SaaS",
-      "score": 7.3,
-      "score_details": {
-        "faisabilite": 6,
-        "utilisabilite": 9,
-        "pertinence": 7,
-        "saas": 9,
-        "vitesse": 5
-      },
-      "versions": [
-        {
-          "version": 1,
-          "created_at": "2026-05-11T00:00:00+02:00",
-          "transcript": "Des personnes gagnent des badges, elles ont la capacité de débloquer des skills qui pourraient leur servir dans leur vie personnelle, professionnelle et sur leur parcours. Un outil de gamification pluggable sur n'importe quelle plateforme qui génère des skills à partir de ce que les utilisateurs font vraiment, et leur appartient à eux personnellement.",
-          "title": "Gamification & Passeport de compétences IA",
-          "summary": "Moteur de gamification pluggable qui génère des skills personnalisés via IA selon ce que l'utilisateur fait vraiment. Passeport de compétences portable et exportable — disruptif mais complexe à construire.",
-          "score": 7.3
-        }
-      ]
-    },
-    {
-      "id": "a1b2c3d4-0004-4000-8000-000000000004",
-      "created_at": "2026-04-29T00:00:00+02:00",
-      "category": "Développement commercial",
-      "score": 7.5,
-      "score_details": {
-        "faisabilite": 8,
-        "utilisabilite": 8,
-        "pertinence": 8,
-        "saas": 6,
-        "vitesse": 8
-      },
-      "versions": [
-        {
-          "version": 1,
-          "created_at": "2026-04-29T00:00:00+02:00",
-          "transcript": "Un outil qui aide une organisation à faire le point sur ses objectifs commerciaux, ce qu'elle a déjà en place et les écarts. Génère une mini-strat indicative. DAJM propose ensuite un accompagnement sur les solutions identifiées : SEO, Google Search, site web, production audiovisuelle, contenu, notoriété.",
-          "title": "Mise au point stratégique commerciale",
-          "summary": "Questionnaire structuré qui cartographie les priorités commerciales d'une organisation et génère des recommandations macro. Porte d'entrée transversale vers toutes les offres DAJM.",
-          "score": 7.5
-        }
-      ]
-    },
-    {
-      "id": "a1b2c3d4-0005-4000-8000-000000000005",
-      "created_at": "2026-05-12T00:00:00+02:00",
-      "category": "Développement commercial",
-      "score": 6.8,
+      "id": "idea-001",
+      "category": "Outils IA",
+      "status": "new",
+      "score": 8.75,
       "score_details": {
         "faisabilite": 9,
-        "utilisabilite": 6,
-        "pertinence": 8,
-        "saas": 3,
+        "utilisabilite": 9,
+        "pertinence": 9,
+        "saas": 8,
         "vitesse": 9
       },
+      "created_at": "2026-05-10T09:00:00Z",
       "versions": [
         {
           "version": 1,
-          "created_at": "2026-05-12T00:00:00+02:00",
-          "transcript": "Contacter des agences et cabinets de communication externe pour établir des partenariats stratégiques. DAJM pourrait intervenir en sous-traitance, co-traitance ou en apport mutuel de compétences sur l'IA, la marque employeur, la production digitale.",
-          "title": "Partenariats avec agences de communication",
-          "summary": "Développement commercial indirect via partenariats agences : co-traitance, apport d'affaires, marque blanche. Positionnement DAJM comme acteur complémentaire spécialisé IA + marque employeur.",
-          "score": 6.8
+          "title": "Brief client automatisé par IA",
+          "summary": "Un outil SaaS qui génère automatiquement un brief créatif structuré à partir d'un entretien vocal de 10 minutes avec le client. L'IA reformule, priorise et formate les attentes en un document prêt à l'emploi pour l'équipe.",
+          "transcript": "J'ai une idée pour automatiser les briefs clients. En gros, on enregistre la conversation de discovery avec le client, l'IA transcrit, analyse et génère directement un brief structuré avec les objectifs, la cible, les contraintes et les KPIs. Plus besoin de passer 2 heures à rédiger après chaque réunion.",
+          "score": 8.75,
+          "created_at": "2026-05-10T09:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "idea-002",
+      "category": "Agence",
+      "status": "new",
+      "score": 8.5,
+      "score_details": {
+        "faisabilite": 9,
+        "utilisabilite": 9,
+        "pertinence": 8,
+        "saas": 8,
+        "vitesse": 9
+      },
+      "created_at": "2026-05-10T10:30:00Z",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Assistant rédactionnel multi-plateforme",
+          "summary": "Un assistant IA entraîné sur la charte de marque du client qui génère des copies adaptées à chaque réseau social (LinkedIn, Instagram, X) avec le bon ton, le bon format et les bons hashtags. Revue humaine intégrée avant publication.",
+          "transcript": "On perd beaucoup de temps à adapter les contenus d'un réseau à l'autre. L'idée c'est un assistant qui connaît parfaitement la marque du client et qui génère automatiquement les versions LinkedIn, Instagram et X à partir d'un seul brief de contenu. Le CM valide juste avant de publier.",
+          "score": 8.5,
+          "created_at": "2026-05-10T10:30:00Z"
+        }
+      ]
+    },
+    {
+      "id": "idea-003",
+      "category": "SaaS",
+      "status": "new",
+      "score": 8.4,
+      "score_details": {
+        "faisabilite": 8,
+        "utilisabilite": 9,
+        "pertinence": 9,
+        "saas": 8,
+        "vitesse": 8
+      },
+      "created_at": "2026-05-11T08:00:00Z",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Générateur de prompts IA sur-mesure",
+          "summary": "Une bibliothèque SaaS de prompts créatifs optimisés, personnalisables par secteur et par usage (branding, copywriting, UX, stratégie). Chaque prompt est testé, versionné et accompagné d'exemples de résultats. Abonnement mensuel par équipe.",
+          "transcript": "Les équipes créatives galèrent toutes avec les prompts IA. Soit ils sont trop génériques, soit ils ne correspondent pas à leur domaine. L'idée c'est une vraie bibliothèque de prompts pro, testés et validés, organisés par métier et par cas d'usage, avec des exemples concrets de ce que ça produit.",
+          "score": 8.4,
+          "created_at": "2026-05-11T08:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "idea-004",
+      "category": "Formation",
+      "status": "new",
+      "score": 7.75,
+      "score_details": {
+        "faisabilite": 7,
+        "utilisabilite": 8,
+        "pertinence": 8,
+        "saas": 9,
+        "vitesse": 6
+      },
+      "created_at": "2026-05-11T14:00:00Z",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Plateforme de montée en compétences IA pour créatifs",
+          "summary": "Une plateforme de micro-formations pratiques dédiées aux équipes créatives (DA, copywriters, chefs de projet) pour maîtriser les outils IA en contexte agence. Parcours adaptés au niveau, certifications internes, suivi des progrès par manager.",
+          "transcript": "Les formations IA génériques ne parlent pas aux créatifs. Ils ont besoin de cas concrets : comment utiliser Midjourney pour un pitch, comment prompter pour du copywriting, comment intégrer l'IA dans un process de production réel. On pourrait créer une plateforme spécialisée agence avec des modules courts de 15 minutes.",
+          "score": 7.75,
+          "created_at": "2026-05-11T14:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "idea-005",
+      "category": "Analytics",
+      "status": "new",
+      "score": 8.15,
+      "score_details": {
+        "faisabilite": 7,
+        "utilisabilite": 8,
+        "pertinence": 9,
+        "saas": 9,
+        "vitesse": 7
+      },
+      "created_at": "2026-05-12T07:00:00Z",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Dashboard performance créative pour agences",
+          "summary": "Un outil d'analytics dédié aux agences créatives qui mesure la performance des livrables (taux d'approbation client, nombre d'itérations, délais) et identifie les patterns de succès pour améliorer les process de production.",
+          "transcript": "Les agences ne mesurent jamais leur performance créative de manière structurée. On sait rarement combien de rounds de corrections il faut en moyenne, quel type de brief génère le moins de retours, quel profil de client est le plus efficace à servir. Un dashboard qui agrège tout ça permettrait d'optimiser vraiment la rentabilité.",
+          "score": 8.15,
+          "created_at": "2026-05-12T07:00:00Z"
         }
       ]
     }
