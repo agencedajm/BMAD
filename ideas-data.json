@@ -4,25 +4,25 @@
             "id": "e3b30cf4-7f1c-45a9-87f9-134bddaedac9",
             "created_at": "2026-05-12T19:11:49+02:00",
             "category": "Produit SaaS",
-            "score": 5,
+            "score": 5.6,
             "score_details": {
                 "alignement_dajm": 6,
-                "potentiel_commercial": 5,
-                "faisabilite": 4,
+                "potentiel_commercial": 6,
+                "faisabilite": 5,
                 "marche": 5,
-                "vitesse": 4
+                "vitesse": 5
             },
             "versions": [
                 {
                     "version": 1,
                     "created_at": "2026-05-12T19:11:49+02:00",
                     "transcript": "Je voudrais créer des patchs, de faire de la gamification sur des outils et que par jalons, quand les personnes atteignent un certain niveau, comme Local Guide sur Google, les gens acquièrent des skills qui sont personnalisés. C'est-à-dire qu'en fin de compte, il se crée un portfolio de skills qu'ils pourraient transporter dans leurs différentes entreprises.",
-                    "title": "Badges de compétences portables inter-entreprises",
-                    "summary": "Système de gamification professionnelle permettant aux utilisateurs d'accumuler des badges\/skills validés par jalons, constituant un portfolio de compétences transportable d'une entreprise à l'autre. Cible : RH, formation, marque employeur. Angle DAJM : valoriser les parcours invisibles et rendre les compétences désirables et crédibles.",
-                    "score": 5
+                    "title": "Portfolio de skills gamifié et transportable",
+                    "summary": "Créer un système de badges\/patchs gamifiés permettant à des utilisateurs d'acquérir et de valider des compétences par jalons progressifs, constituant un portfolio de skills portables d'une entreprise à l'autre. Cible : salariés, candidats, apprenants. Angle DAJM : croisement entre attractivité, employabilité et valorisation de l'humain — territoire proche de la marque employeur.",
+                    "score": 5.6
                 }
             ],
-            "verdict": "L'idée touche un vrai sujet RH (reconnaissance des compétences informelles, portabilité du capital humain) qui résonne avec l'ADN Make IT Human de DAJM — c'est le point le plus solide. Mais elle se heurte à trois freins majeurs : le marché est structurellement dominé par des acteurs établis (Credly, Open Badges, LinkedIn Skills), la faisabilité implique une couche de certification crédible difficile à construire sans partenaires institutionnels (OPCO, branches pro), et le modèle de revenus reste flou — qui paie, l'entreprise ou le salarié ? Sans angle différenciant fort et sans ancrage sur un secteur en tension précis (là où DAJM est légitime), ce projet risque d'être un démonstrateur sans marché captif."
+            "verdict": "L'idée est séduisante sur le fond humain mais se heurte à un marché déjà très structuré (LinkedIn Skills, Credly, Badgr, OpenBadges) sans différenciation claire exprimée. L'alignement avec l'ADN DAJM est réel sur la dimension employabilité\/attractivité, mais le cœur du produit — moteur de gamification + système de certification portable — représente une complexité technique et une charge produit significatives pour une équipe small. Le potentiel commercial existe (RH, formation, OPCO) mais le chemin vers la récurrence SaaS est long et nécessite une masse critique d'utilisateurs difficile à atteindre sans partenariats institutionnels."
         },
         {
             "id": "7279793e-3caf-4843-8bc1-28c7885871cb",
