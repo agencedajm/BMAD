@@ -45,30 +45,6 @@
                     "score": 7.8
                 }
             ]
-        },
-        {
-            "id": "11288435-67f5-4f54-8925-77b92763089f",
-            "created_at": "2026-05-13T09:19:57+02:00",
-            "status": "new",
-            "category": "Autre",
-            "score": 4.3,
-            "score_details": {
-                "faisabilite": 6,
-                "utilisabilite": 6,
-                "pertinence": 1,
-                "saas": 4,
-                "vitesse": 6
-            },
-            "versions": [
-                {
-                    "version": 1,
-                    "created_at": "2026-05-13T09:19:57+02:00",
-                    "transcript": "App promo sur les magasin du quartier",
-                    "title": "App promos locales pour commerces de quartier",
-                    "summary": "Application mobile ou web permettant aux commerces de proximité de diffuser leurs promotions en temps réel aux habitants du quartier. Connecte commerçants locaux et consommateurs autour d'offres géolocalisées.",
-                    "score": 4.3
-                }
-            ]
         }
     ]
 }
