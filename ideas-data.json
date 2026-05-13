@@ -45,30 +45,6 @@
                     "score": 7.8
                 }
             ]
-        },
-        {
-            "id": "6a2ac974-254f-4d73-9d8c-701774232fa7",
-            "created_at": "2026-05-13T08:15:25+02:00",
-            "status": "new",
-            "category": "Autre",
-            "score": 3.7,
-            "score_details": {
-                "faisabilite": 6,
-                "utilisabilite": 5,
-                "pertinence": 1,
-                "saas": 3,
-                "vitesse": 5
-            },
-            "versions": [
-                {
-                    "version": 1,
-                    "created_at": "2026-05-13T08:15:25+02:00",
-                    "transcript": "Je voudrais pouvoir avoir une application de promotion des meilleures courses à faire dans le coin.",
-                    "title": "App locale de recommandation de courses du quotidien",
-                    "summary": "Application géolocalisée suggérant les meilleures courses à faire à proximité. Concept grand public sans lien avec les sujets RH, attractivité ou communication complexe de DAJM. Hors périmètre stratégique Make IT Human.",
-                    "score": 3.7
-                }
-            ]
         }
     ]
 }
