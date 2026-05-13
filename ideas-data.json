@@ -47,6 +47,31 @@
                 }
             ],
             "verdict": "L'idée est cohérente avec l'ADN RH de DAJM et constitue un démonstrateur crédible pour Lab DIAMS, mais elle souffre d'un problème fondamental : la cible est le candidat, pas le recruteur ou l'entreprise, ce qui rend la monétisation directe quasi nulle à court terme. Le marché des outils CV\/IA est déjà saturé (Kickresume, Rezi, Teal, etc.) sans différenciation suffisamment marquée ici. La vraie valeur stratégique serait de pivoter vers les recruteurs ou les structures d'accompagnement (France Travail, cabinets RH) comme acheteurs, pas les candidats eux-mêmes."
+        },
+        {
+            "id": "71cdaa52-901a-45fa-8003-19013e44009d",
+            "created_at": "2026-05-13T13:53:33+02:00",
+            "status": "new",
+            "category": "Produit SaaS",
+            "score": 7.1,
+            "score_details": {
+                "alignement_dajm": 9,
+                "potentiel_commercial": 4,
+                "faisabilite": 8,
+                "marche": 7,
+                "vitesse": 7
+            },
+            "verdict": "L'alignement avec le cœur de métier DAJM (attractivité, recrutement, marque employeur) est réel et crédible — c'est le point fort. Mais la décision de le proposer gratuitement tue tout potentiel commercial direct et transforme un actif potentiellement monétisable en simple démonstrateur. Le marché existe et est large, mais il est déjà occupé (Workable, Notion AI, Welcome to the Jungle) : sans différenciation tarifaire ou de profondeur, l'outil risque d'être perçu comme un gadget. À reconsidérer impérativement avec un modèle freemium ou un accès premium pour les annonces storytelling avancées.",
+            "versions": [
+                {
+                    "version": 1,
+                    "created_at": "2026-05-13T13:53:33+02:00",
+                    "transcript": "Pour la page Le Lab James, je veux créer un outil qui permet de créer des fiches de poste. Ça peut être au choix, c'est un outil qui permet de créer des fiches de poste. Au départ, il donne des informations sur l'entreprise, sur la culture d'entreprise, l'ADN. Ensuite, il va proposer des fiches de poste, là où il aura juste à mettre le nom. Qu'est-ce qu'il pourrait y avoir d'autre comme idée ? Des ressources RH, des annonces personnalisées en mode storytelling. Des éléments qui permettent de faciliter la vie des recruteurs, des entreprises à leur niveau. Ça, ça serait un outil gratuit.",
+                    "title": "Générateur de fiches de poste à l'ADN entreprise",
+                    "summary": "Un outil IA qui transforme l'identité et la culture d'une entreprise en fiches de poste personnalisées et en annonces storytelling. Cible : RH, recruteurs, TPE\/PME en tension de recrutement. Angle DAJM : Make IT Human appliqué à l'attractivité employeur.",
+                    "score": 7.1
+                }
+            ]
         }
     ]
 }
