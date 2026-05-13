@@ -53,23 +53,23 @@
             "created_at": "2026-05-13T13:53:33+02:00",
             "status": "new",
             "category": "Produit SaaS",
-            "score": 7.1,
+            "score": 7.7,
             "score_details": {
                 "alignement_dajm": 9,
-                "potentiel_commercial": 4,
+                "valeur_business_dajm": 6,
                 "faisabilite": 8,
                 "marche": 7,
-                "vitesse": 7
+                "vitesse": 8
             },
-            "verdict": "L'alignement avec le cœur de métier DAJM (attractivité, recrutement, marque employeur) est réel et crédible — c'est le point fort. Mais la décision de le proposer gratuitement tue tout potentiel commercial direct et transforme un actif potentiellement monétisable en simple démonstrateur. Le marché existe et est large, mais il est déjà occupé (Workable, Notion AI, Welcome to the Jungle) : sans différenciation tarifaire ou de profondeur, l'outil risque d'être perçu comme un gadget. À reconsidérer impérativement avec un modèle freemium ou un accès premium pour les annonces storytelling avancées.",
+            "verdict": "L'alignement avec le cœur de métier DAJM est fort : marque employeur, attractivité, communication RH complexe — c'est exactement le terrain de jeu Make IT Human. Le potentiel d'acquisition via un outil gratuit est réel (lead magnet puissant vers les offres DAJM payantes). Ce qui plombe : le modèle 'gratuit' ne génère aucun revenu direct, la conversion vers du payant doit être architecturée dès le départ sinon c'est un coût sans retour, et la concurrence (Workable, Welcome to the Jungle, outils IA généralistes) est déjà dense — la différenciation storytelling\/ADN doit être radicale et visible.",
             "versions": [
                 {
                     "version": 1,
                     "created_at": "2026-05-13T13:53:33+02:00",
                     "transcript": "Pour la page Le Lab James, je veux créer un outil qui permet de créer des fiches de poste. Ça peut être au choix, c'est un outil qui permet de créer des fiches de poste. Au départ, il donne des informations sur l'entreprise, sur la culture d'entreprise, l'ADN. Ensuite, il va proposer des fiches de poste, là où il aura juste à mettre le nom. Qu'est-ce qu'il pourrait y avoir d'autre comme idée ? Des ressources RH, des annonces personnalisées en mode storytelling. Des éléments qui permettent de faciliter la vie des recruteurs, des entreprises à leur niveau. Ça, ça serait un outil gratuit.",
-                    "title": "Générateur de fiches de poste à l'ADN entreprise",
-                    "summary": "Un outil IA qui transforme l'identité et la culture d'une entreprise en fiches de poste personnalisées et en annonces storytelling. Cible : RH, recruteurs, TPE\/PME en tension de recrutement. Angle DAJM : Make IT Human appliqué à l'attractivité employeur.",
-                    "score": 7.1
+                    "title": "Générateur de fiches de poste IA & storytelling",
+                    "summary": "Un outil gratuit qui, à partir de l'ADN et de la culture d'entreprise, génère automatiquement des fiches de poste personnalisées et des annonces en mode storytelling. Cible : recruteurs, RH de TPE\/PME, agences de recrutement. Angle DAJM : transformer un document administratif froid en levier d'attractivité employeur — Make IT Human appliqué au recrutement.",
+                    "score": 7.7
                 }
             ]
         }
