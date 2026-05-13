@@ -26,25 +26,26 @@
         {
             "id": "7279793e-3caf-4843-8bc1-28c7885871cb",
             "created_at": "2026-05-12T19:21:12+02:00",
-            "category": "RH & Attractivité",
-            "score": 7.8,
+            "category": "Outillage IA",
+            "score": 5.9,
             "score_details": {
-                "faisabilite": 8,
-                "utilisabilite": 8,
-                "pertinence": 9,
-                "saas": 6,
-                "vitesse": 8
+                "alignement_dajm": 7,
+                "potentiel_commercial": 4,
+                "faisabilite": 7,
+                "marche": 5,
+                "vitesse": 6
             },
             "versions": [
                 {
                     "version": 1,
                     "created_at": "2026-05-12T19:21:12+02:00",
                     "transcript": "Je veux développer une ressource à destination des candidats. Ils mettent leur personnalité, leurs hard skills, leurs soft skills. Une fois que leur personnalité est connue, l'intelligence artificielle leur permet de mettre des annonces d'offre d'emploi. Et en sortie, l'outil réécrit son CV pour qu'il puisse être en phase avec l'annonce. Et ça, ça serait à destination de notre page LabDiams, pour montrer qu'on a une vraie recherche d'innovation et de solutions qui sont accessibles pour les recruteurs et les candidats.",
-                    "title": "CV Adapter IA : candidat + annonce = match parfait",
-                    "summary": "Un outil qui profile le candidat (personnalité, hard\/soft skills), analyse une offre d'emploi collée, puis réécrit automatiquement son CV pour maximiser l'alignement. Vitrine Lab DIAMS orientée candidats et recruteurs.",
-                    "score": 7.8
+                    "title": "CV Adaptatif IA pour Candidats Ciblés",
+                    "summary": "Outil permettant aux candidats de profiler leur personnalité, hard et soft skills, puis de soumettre une offre d'emploi pour obtenir un CV réécrit et aligné automatiquement. Cible : candidats en recherche active. Angle DAJM : démonstrateur Lab DIAMS sur le terrain RH\/attractivité, cohérent avec la philosophie Make IT Human.",
+                    "score": 5.9
                 }
-            ]
+            ],
+            "verdict": "L'alignement avec l'ADN RH et attractivité de DAJM est réel — c'est le principal point fort. Mais l'idée est positionnée en outil gratuit\/vitrine Lab DIAMS, ce qui plombe immédiatement le potentiel commercial : sans modèle de monétisation défini, c'est un coût, pas un actif. Le marché existe mais est hyper-concurrencé (Kickresume, Resume.io, Rezi, outils GPT natifs) sans différenciation claire revendiquée. La faisabilité technique est correcte, mais le temps de validation marché reste flou tant que la cible payante n'est pas identifiée — recruteurs ou candidats premium ?"
         }
     ]
 }
