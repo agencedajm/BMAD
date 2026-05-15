@@ -150,30 +150,44 @@
             "id": "592c305d-b4ef-47c1-93cd-f5d80ff68691",
             "created_at": "2026-05-15T10:29:22+02:00",
             "status": "new",
-            "category": "Développement commercial",
-            "score": 9.9,
+            "category": "Produit SaaS",
+            "score": 6.8,
             "score_details": {
-                "alignement_strategique": 8,
-                "potentiel_commercial": 8,
-                "desirabilite_client": 8,
-                "differenciation": 7,
+                "alignement_strategique": 7,
+                "potentiel_commercial": 7,
+                "desirabilite_client": 7,
+                "differenciation": 6,
                 "faisabilite": 7,
                 "recurrence_produit": 7,
-                "valeur_preuve": 7,
-                "utilite_interne": 4,
-                "apprentissage_strategique": 3
+                "valeur_preuve": 6,
+                "utilite_interne": 1,
+                "apprentissage_strategique": 1
             },
-            "verdict": "Le facteur le plus déterminant ici, c'est la désirabilité client : les marques ont un problème réel et douloureux avec la déclinaison de leurs contenus stratégiques, et Content Reactor y répond de façon concrète, avec une logique de passage à l'acte fluide grâce au filet de sécurité humain. Ce qui tire le score vers le haut, c'est la combinaison désirabilité-potentiel commercial-alignement stratégique, tous à 8 : le produit crée de la valeur perçue immédiate pour le client tout en ouvrant une porte d'entrée vers des missions d'accompagnement éditorial, ce qui est exactement dans l'ADN de Make IT Human. Ce qui le plombe, c'est l'utilité",
+            "verdict": "La récurrence produit et le potentiel commercial sont les vrais moteurs de ce score : un outil SaaS de déclinaison éditoriale crée une dépendance fonctionnelle chez le client et ouvre une porte naturelle vers l'intervention humaine facturée, ce qui s'aligne parfaitement avec le positionnement Make IT Human. Ce qui plombe le score, c'est la différenciation faible — le marché des outils de repurposing de contenu est déjà encombré, et sans un angle propriétaire fort, Content Reactor risque de se noyer dans la comparaison avec des outils généralistes bien financés. L'utilité interne quasi nulle est aussi un signal : un outil que DAJM ne s'approprie pas en interne aura du mal à incarner la promesse",
             "versions": [
                 {
                     "version": 1,
                     "created_at": "2026-05-15T10:29:22+02:00",
                     "transcript": " Content Reactor, un moteur de déclinaison éditoriale à partir d'un rapport, d'une étude ou d'un témoignage. Il produit une cartographie de contenu pour LinkedIn, site, newsletter, vidéo courte, carousel et campagne. Ça, c'est à destination de nos clients. On leur propose d'avoir une petite autonomie là-dessus. et potentiellement à la fin on a « Ok, vous voulez l'intervention d'un humain, pas de problème ».",
                     "title": "Content Reactor : déclinaison éditoriale semi-autonome",
-                    "summary": "Transformer un rapport, étude ou témoignage en cartographie éditoriale multi-canal (LinkedIn, site, newsletter, vidéo, carousel). Offrir aux clients une première autonomie avant intervention humaine DAJM. Positionner DAJM comme catalyseur stratégique, pas juste producteur.",
-                    "score": 9.9
+                    "summary": "Outil SaaS qui transforme un rapport\/étude\/témoignage en cartographie éditoriale multi-canal (LinkedIn, site, newsletter, vidéo, carousel, campagne). Adresse le besoin client d'autonomie progressive tout en créant un pont vers les services DAJM. Positionne DAJM comme stratège derrière l'outil, pas comme simple producteur.",
+                    "score": 6.8
                 }
-            ]
+            ],
+            "idea_type": "produit_saas",
+            "main_function": "automatiser|preparer",
+            "scores": {
+                "brut": 67.1,
+                "typo": 68,
+                "priorite": 78
+            },
+            "bonuses_applied": {
+                "bonus_offre_existante": 8,
+                "bonus_rdv_commercial": 5
+            },
+            "maluses_applied": {
+                "malus_banalite": -3
+            }
         },
         {
             "id": "f49442a8-4fe8-4d96-b4b7-ce4ebbfeddae",
