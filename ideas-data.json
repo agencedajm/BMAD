@@ -105,23 +105,25 @@
             "created_at": "2026-05-15T10:28:14+02:00",
             "status": "new",
             "category": "Produit SaaS",
-            "score": 7.4,
+            "score": 6.6,
             "score_details": {
-                "alignement_dajm": 8,
-                "valeur_business_dajm": 7,
-                "faisabilite": 8,
-                "marche": 7,
-                "vitesse": 6
+                "alignement_strategique": 7,
+                "potentiel_commercial": 6,
+                "desirabilite_client": 7,
+                "differenciation": 6,
+                "faisabilite": 7,
+                "recurrence_produit": 6,
+                "valeur_preuve": 7
             },
-            "verdict": "Le facteur déterminant ici est la vitesse de monétisation : le marché RH\/événementiel est structurellement lent à décider, avec des cycles de vente longs et des budgets souvent figés annuellement, ce qui explique le score de 6 sur ce critère et pèse sur l'ensemble. L'alignement DAJM est réel et cohérent — l'outil combine IA, SaaS et marketing événementiel dans un périmètre que l'agence maîtrise, et la faisabilité technique est solide avec un bon potentiel de différenciation sur le séquençage et les prolongements social media. Ce qui plombe le score global c'est la profondeur de marché : la",
+            "verdict": "La différenciation est le talon d'Achille d'EventPulse : le marché des outils de conception événementielle est déjà encombré et l'IA générique peut couvrir une grande partie du périmètre proposé sans effort, ce qui rend la proposition de valeur difficile à défendre durablement. Ce qui tire le score vers le haut, c'est l'alignement réel avec le positionnement DAJM sur le conseil stratégique RH et la capacité à générer des livrables tangibles et démontrables dès le premier usage. Ce qui plombe, c'est la récurrence faible inhérente au cycle événementiel corporate, le risque de cannibalisation par des outils généralistes et une",
             "versions": [
                 {
                     "version": 1,
                     "created_at": "2026-05-15T10:28:14+02:00",
                     "transcript": "EventPulse\r\n\r\nUn outil pour concevoir un événement corporate ou RH à partir d’un objectif précis. Il propose format, séquençage, contenus, interactions, captation et prolongements social media.",
-                    "title": "EventPulse — Co-pilote IA pour événements RH",
-                    "summary": "Problème : concevoir un événement corporate\/RH sans cadre stratégique coûte en temps et en cohérence. Cible : agences événementielles, services RH\/marque employeur, cabinets de conseil. Angle DAJM : automatise la clarification de position (objectif → format), donne vie aux interactions et séquençages, génère crédibilité via prolongements mesurables — cœur Make IT Human appliqué à l'événementiel.",
-                    "score": 7.4
+                    "title": "EventPulse : concevoir des événements RH stratégiques",
+                    "summary": "Outil IA pour transformer un objectif RH\/attractivité en événement clé en main (format, séquençage, contenus, interactions, captation, prolongements). Cible : DRH, responsables marque employeur, agences événementielles en quête de stratégie. Angle DAJM : rendre visible et générer le désir via l'événementiel, en appliquant la clarification stratégique et la pédagogie.",
+                    "score": 6.6
                 }
             ]
         },
