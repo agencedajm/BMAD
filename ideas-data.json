@@ -372,6 +372,51 @@
                     "score": 6.3
                 }
             ]
+        },
+        {
+            "id": "597cb0ba-6412-43b6-b3b9-b730cf3e971f",
+            "created_at": "2026-05-15T18:15:12+02:00",
+            "status": "new",
+            "category": "Produit SaaS",
+            "idea_type": "produit_saas",
+            "main_function": "vendre",
+            "score": 5.6,
+            "scores": {
+                "brut": 55.7,
+                "typo": 55.5,
+                "priorite": 55.5
+            },
+            "score_details": {
+                "alignement_strategique": 6,
+                "potentiel_commercial": 6,
+                "desirabilite_client": 5,
+                "differenciation": 6,
+                "faisabilite": 5,
+                "recurrence_produit": 6,
+                "valeur_preuve": 5,
+                "utilite_interne": 4,
+                "apprentissage_strategique": 3
+            },
+            "bonuses_applied": {
+                "bonus_offre_existante": 8,
+                "bonus_rdv_commercial": 5
+            },
+            "maluses_applied": {
+                "malus_banalite": -3,
+                "malus_acheteur_flou": -5,
+                "malus_complexite": -5
+            },
+            "verdict": "L'apprentissage stratégique est le talon d'Achille de cette idée : DAJM s'aventure sur un terrain technique de développement produit SaaS qui n'est pas son cœur de métier, et le risque d'exécution est réel. Ce qui tire le score vers le haut, c'est la différenciation pédagogique — le \"Make IT Human\" appliqué à la data est une vraie proposition de valeur sur un marché d'outils souvent froids et illisibles — et le modèle freemium clients existants est une porte d'entrée intelligente. Ce qui le plombe, c'est la faible utilité interne couplée à une désirabilité client incertaine : le marché du dashboard analytics est saturé de Looker Studio, Whatagraph et",
+            "versions": [
+                {
+                    "version": 1,
+                    "created_at": "2026-05-15T18:15:12+02:00",
+                    "transcript": " Je pense à un super dashboard sur lequel on pourra brancher tous les réseaux sociaux, Google Analytics, Campagne Analytics, Search des clients. On le propose gratuitement pour les clients pour lesquels on a des campagnes. Et en fait, c'est payant pour ceux qui veulent avoir un outil de suivi général. Mais en fait, l'outil sera du Make It Human, c'est-à-dire qu'en fait, on accompagnera chaque chiffre d'explication on sera hyper didactique et on aide à la décision donc ce serait aussi une offre SASS et une FINI",
+                    "title": "Dashboard Make IT Human : analytics + pédagogie décisionnelle",
+                    "summary": "Dashboard multi-sources (réseaux, GA, Search) gratuit pour clients DAJM, monétisé en SaaS autonome. Différenciation : chaque métrique accompagnée d'explications didactiques et recommandations d'action alignées sur Make IT Human. Vise à transformer les data brutes en intelligence décisionnelle accessible.",
+                    "score": 5.6
+                }
+            ]
         }
     ]
 }
