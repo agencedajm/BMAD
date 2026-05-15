@@ -331,6 +331,47 @@
                     "score": 7.1
                 }
             ]
+        },
+        {
+            "id": "22df16fb-39f7-4331-ae0e-c72846d9c930",
+            "created_at": "2026-05-15T18:07:00+02:00",
+            "status": "new",
+            "category": "Développement commercial",
+            "idea_type": "commerciale",
+            "main_function": "vendre",
+            "score": 6.3,
+            "scores": {
+                "brut": 55.7,
+                "typo": 63,
+                "priorite": 55
+            },
+            "score_details": {
+                "alignement_strategique": 7,
+                "potentiel_commercial": 7,
+                "desirabilite_client": 6,
+                "differenciation": 4,
+                "faisabilite": 7,
+                "recurrence_produit": 2,
+                "valeur_preuve": 6,
+                "utilite_interne": 3,
+                "apprentissage_strategique": 3
+            },
+            "bonuses_applied": [],
+            "maluses_applied": {
+                "malus_banalite": -3,
+                "malus_acheteur_flou": -5
+            },
+            "verdict": "La différenciation est le talon d'Achille de cette idée : un score de 4 signale qu'on joue sur un terrain balisé sans marqueur distinctif fort, ce qui fragilise la promesse commerciale dès le départ. Les fondamentaux tiennent la route — alignement stratégique et faisabilité à 7 montrent que l'idée s'inscrit dans la logique DAJM et reste exécutable — mais la quasi-absence de récurrence (2) et la faible utilité interne (3) en font un coup de filet ponctuel plutôt qu'un actif durable. En l'état, c'est un produit d'appel correct pour générer du lead, mais insuffisamment différencié pour incarner le positionnement Make IT Human et trop peu rentable sur la dur",
+            "versions": [
+                {
+                    "version": 1,
+                    "created_at": "2026-05-15T18:07:00+02:00",
+                    "transcript": " C'est vraiment pour valoriser, c'est-à-dire qu'on met en place une stratégie de communication derrière avec une landing page, avec de l'achat média, pour essayer de faire que les gens viennent sur cette page, se diagnostiquent. Donc c'est vraiment un outil, un produit d'appel pour essayer de motiver les gens à être intéressés sur le sujet de la communication.",
+                    "title": "Landing page diagnostic communication + média",
+                    "summary": "Créer un outil d'autodiagnostic en ligne couplé à une stratégie média payante pour attirer des prospects sur un sujet complexe (communication). Vise à générer des leads qualifiés et à positionner DAJM comme expert en démystification des enjeux communicationnels.",
+                    "score": 6.3
+                }
+            ]
         }
     ]
 }
