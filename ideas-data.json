@@ -97,6 +97,31 @@
                     "score": 6.4
                 }
             ]
+        },
+        {
+            "id": "7a2cf261-799f-4c1a-bd1a-915facf7bfb7",
+            "created_at": "2026-05-15T10:28:14+02:00",
+            "status": "new",
+            "category": "Produit SaaS",
+            "score": 7.4,
+            "score_details": {
+                "alignement_dajm": 8,
+                "valeur_business_dajm": 7,
+                "faisabilite": 8,
+                "marche": 7,
+                "vitesse": 6
+            },
+            "verdict": "Le facteur déterminant ici est la vitesse de monétisation : le marché RH\/événementiel est structurellement lent à décider, avec des cycles de vente longs et des budgets souvent figés annuellement, ce qui explique le score de 6 sur ce critère et pèse sur l'ensemble. L'alignement DAJM est réel et cohérent — l'outil combine IA, SaaS et marketing événementiel dans un périmètre que l'agence maîtrise, et la faisabilité technique est solide avec un bon potentiel de différenciation sur le séquençage et les prolongements social media. Ce qui plombe le score global c'est la profondeur de marché : la",
+            "versions": [
+                {
+                    "version": 1,
+                    "created_at": "2026-05-15T10:28:14+02:00",
+                    "transcript": "EventPulse\r\n\r\nUn outil pour concevoir un événement corporate ou RH à partir d’un objectif précis. Il propose format, séquençage, contenus, interactions, captation et prolongements social media.",
+                    "title": "EventPulse — Co-pilote IA pour événements RH",
+                    "summary": "Problème : concevoir un événement corporate\/RH sans cadre stratégique coûte en temps et en cohérence. Cible : agences événementielles, services RH\/marque employeur, cabinets de conseil. Angle DAJM : automatise la clarification de position (objectif → format), donne vie aux interactions et séquençages, génère crédibilité via prolongements mesurables — cœur Make IT Human appliqué à l'événementiel.",
+                    "score": 7.4
+                }
+            ]
         }
     ]
 }
