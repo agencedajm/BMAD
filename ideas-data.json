@@ -421,7 +421,7 @@
         {
             "id": "f0638a93-0ee5-4ba1-a258-1b1bdb866ab0",
             "created_at": "2026-05-15T18:18:15+02:00",
-            "status": "new",
+            "status": "wip",
             "category": "Outillage interne",
             "idea_type": "outil_interne",
             "main_function": "structurer",
