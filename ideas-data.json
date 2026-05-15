@@ -143,27 +143,44 @@
             "created_at": "2026-05-15T10:28:14+02:00",
             "status": "new",
             "category": "Produit SaaS",
-            "score": 6.6,
+            "score": 6,
             "score_details": {
-                "alignement_strategique": 7,
-                "potentiel_commercial": 6,
-                "desirabilite_client": 7,
-                "differenciation": 6,
+                "alignement_strategique": 6,
+                "potentiel_commercial": 5,
+                "desirabilite_client": 6,
+                "differenciation": 5,
                 "faisabilite": 7,
                 "recurrence_produit": 6,
-                "valeur_preuve": 7
+                "valeur_preuve": 5,
+                "utilite_interne": 1,
+                "apprentissage_strategique": 1
             },
-            "verdict": "La différenciation est le talon d'Achille d'EventPulse : le marché des outils de conception événementielle est déjà encombré et l'IA générique peut couvrir une grande partie du périmètre proposé sans effort, ce qui rend la proposition de valeur difficile à défendre durablement. Ce qui tire le score vers le haut, c'est l'alignement réel avec le positionnement DAJM sur le conseil stratégique RH et la capacité à générer des livrables tangibles et démontrables dès le premier usage. Ce qui plombe, c'est la récurrence faible inhérente au cycle événementiel corporate, le risque de cannibalisation par des outils généralistes et une",
+            "verdict": "L'utilité interne quasi nulle (1\/10) est le signal le plus révélateur : si nos propres équipes événementielles ne se précipitent pas dessus, c'est que la valeur perçue est faible ou que le besoin est déjà couvert autrement. La faisabilité correcte (7) et une desirabilité honnête (6) maintiennent le score au-dessus de la médiocrité, mais la différenciation insuffisante (5) face à des outils généralistes d'IA déjà capables de structurer un event sur demande plombe toute ambition commerciale sérieuse. L'alignement DAJM est périphérique : concevoir un SaaS événementiel nous éloigne de notre cœur de métier communication-conseil, et le potent",
             "versions": [
                 {
                     "version": 1,
                     "created_at": "2026-05-15T10:28:14+02:00",
                     "transcript": "EventPulse\r\n\r\nUn outil pour concevoir un événement corporate ou RH à partir d’un objectif précis. Il propose format, séquençage, contenus, interactions, captation et prolongements social media.",
-                    "title": "EventPulse : concevoir des événements RH stratégiques",
-                    "summary": "Outil IA pour transformer un objectif RH\/attractivité en événement clé en main (format, séquençage, contenus, interactions, captation, prolongements). Cible : DRH, responsables marque employeur, agences événementielles en quête de stratégie. Angle DAJM : rendre visible et générer le désir via l'événementiel, en appliquant la clarification stratégique et la pédagogie.",
-                    "score": 6.6
+                    "title": "EventPulse : Co-designer événements RH complexes",
+                    "summary": "EventPulse automatise la conception d'événements corporate\/RH en proposant format, séquençage, contenus et prolongements. Cible RH\/responsables communication confrontés à la charge mentale de l'événementiel. Angle DAJM : transformer un processus bureaucratique en expérience désirable et mesurable.",
+                    "score": 6
                 }
-            ]
+            ],
+            "idea_type": "produit_saas",
+            "main_function": "produire|automatiser|structurer",
+            "scores": {
+                "brut": 57.1,
+                "typo": 59.5,
+                "priorite": 60.5
+            },
+            "bonuses_applied": {
+                "bonus_rdv_commercial": 5,
+                "bonus_contenu_communicable": 4
+            },
+            "maluses_applied": {
+                "malus_banalite": -3,
+                "malus_acheteur_flou": -5
+            }
         },
         {
             "id": "592c305d-b4ef-47c1-93cd-f5d80ff68691",
