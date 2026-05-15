@@ -122,6 +122,31 @@
                     "score": 7.4
                 }
             ]
+        },
+        {
+            "id": "592c305d-b4ef-47c1-93cd-f5d80ff68691",
+            "created_at": "2026-05-15T10:29:22+02:00",
+            "status": "new",
+            "category": "Produit SaaS",
+            "score": 7.8,
+            "score_details": {
+                "alignement_dajm": 8,
+                "valeur_business_dajm": 8,
+                "faisabilite": 8,
+                "marche": 7,
+                "vitesse": 7
+            },
+            "verdict": "L'alignement DAJM est fort car Content Reactor s'inscrit parfaitement dans la logique d'agence augmentée que vous construisez, avec un modèle freemium-to-human qui préserve la valeur conseil tout en scalant. Ce qui tire le score vers le haut : la faisabilité est réelle, le cas d'usage est concret et le pont autonomie-intervention humaine est une proposition commerciale honnête et défendable. Ce qui plombe : le marché est déjà encombré d'outils de repurposing et la vitesse d'adoption restera contrainte par la capacité des clients à uploader des rapports de qualité suffisante, ce qui déplace le vrai problème en amont.",
+            "versions": [
+                {
+                    "version": 1,
+                    "created_at": "2026-05-15T10:29:22+02:00",
+                    "transcript": " Content Reactor, un moteur de déclinaison éditoriale à partir d'un rapport, d'une étude ou d'un témoignage. Il produit une cartographie de contenu pour LinkedIn, site, newsletter, vidéo courte, carousel et campagne. Ça, c'est à destination de nos clients. On leur propose d'avoir une petite autonomie là-dessus. et potentiellement à la fin on a « Ok, vous voulez l'intervention d'un humain, pas de problème ».",
+                    "title": "Content Reactor : du rapport au multi-canal en autonomie",
+                    "summary": "Problème : clients DAJM produisent du contenu riche (rapports, études, témoignages) mais peinent à le décliner sur tous les canaux. Content Reactor automatise cette déclinaison (LinkedIn, site, newsletter, vidéo, carousel, campagne) pour créer une autonomie progressive, avec option d'intervention humaine DAJM. Cible : clients actuels en quête de scaling éditorial sans surcharge opérationnelle. Angle DAJM : porte d'entrée SaaS qui renforce la relation client, démontre la valeur de l'IA comme levier et crédibilise le Lab DIAMS.",
+                    "score": 7.8
+                }
+            ]
         }
     ]
 }
