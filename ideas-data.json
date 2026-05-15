@@ -287,6 +287,50 @@
                     "score": 6.3
                 }
             ]
+        },
+        {
+            "id": "8162da0c-3f19-4274-9f7b-9f2ba2444e87",
+            "created_at": "2026-05-15T18:06:00+02:00",
+            "status": "new",
+            "category": "Développement commercial",
+            "idea_type": "commerciale",
+            "main_function": "vendre",
+            "score": 7.1,
+            "scores": {
+                "brut": 64.3,
+                "typo": 70.5,
+                "priorite": 75.5
+            },
+            "score_details": {
+                "alignement_strategique": 8,
+                "potentiel_commercial": 7,
+                "desirabilite_client": 7,
+                "differenciation": 6,
+                "faisabilite": 7,
+                "recurrence_produit": 3,
+                "valeur_preuve": 7,
+                "utilite_interne": 2,
+                "apprentissage_strategique": 3
+            },
+            "bonuses_applied": {
+                "bonus_offre_existante": 8,
+                "bonus_rdv_commercial": 5
+            },
+            "maluses_applied": {
+                "malus_banalite": -3,
+                "malus_acheteur_flou": -5
+            },
+            "verdict": "L'alignement stratégique fort (8\/10) est le vrai moteur de cette idée : elle positionne DAJM comme expert référent sur l'attractivité des métiers et la marque employeur, un territoire où l'agence a une légitimité réelle et un discours différenciant. Ce qui tire le score vers le haut, c'est la combinaison désirabilité client \/ valeur de preuve — les PME ont un vrai besoin non adressé sur ce sujet, et le diagnostic crée un premier contact qualifié à fort potentiel de conversion. Ce qui le plombe sérieusement, c'est l'absence quasi-totale de récurrence (3\/10) et d'utilité interne (2\/10) : c'est un outil one-shot d'acquisition, pas un actif",
+            "versions": [
+                {
+                    "version": 1,
+                    "created_at": "2026-05-15T18:06:00+02:00",
+                    "transcript": " un diagnostiqueur pour les entreprises, les PME, pour qu'elles fassent le point sur leur manière de communiquer, sur leur métier en tension, sur l'alternance, sur les métiers qu'ils font, pour essayer d'attirer comment ils font de la promotion des métiers, comment ils font de la de la marque employer. Et donc, ce serait avec des jauges, un point, un audit rapide sur l'irréputation également. Et en fait, ça propose par la suite que de nous contacter. Ça propose des recommandations. Puis en fait, à la fin, ça nous propose de nous contacter pour aller plus loin sur le sujet.",
+                    "title": "Diagnostic Rapide Communication & Attractivité Métier",
+                    "summary": "Outil d'auto-diagnostic pour PME\/ETI sur leur communication employeur, attractivité métier et marque employeur. Propose jauges visuelles, scoring d'e-réputation, puis recommandations. Fonction commerciale : qualifier le prospect, proposer audit complet DAJM en face-à-face.",
+                    "score": 7.1
+                }
+            ]
         }
     ]
 }
