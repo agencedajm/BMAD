@@ -131,26 +131,28 @@
             "id": "592c305d-b4ef-47c1-93cd-f5d80ff68691",
             "created_at": "2026-05-15T10:29:22+02:00",
             "status": "new",
-            "category": "Produit SaaS",
-            "score": 7.4,
+            "category": "Développement commercial",
+            "score": 9.9,
             "score_details": {
                 "alignement_strategique": 8,
                 "potentiel_commercial": 8,
-                "desirabilite_client": 7,
+                "desirabilite_client": 8,
                 "differenciation": 7,
                 "faisabilite": 7,
                 "recurrence_produit": 7,
-                "valeur_preuve": 7
+                "valeur_preuve": 7,
+                "utilite_interne": 4,
+                "apprentissage_strategique": 3
             },
-            "verdict": "Le facteur déterminant ici est l'alignement stratégique avec DAJM : transformer une étude en écosystème de contenu multiformat, c'est exactement ce que l'agence sait faire, et proposer une version autonome aux clients avec upsell humain est un modèle hybride crédible et cohérent avec votre positionnement SaaS\/service. Ce qui tire le score vers le haut, c'est la valeur perçue immédiate pour des clients qui ont des actifs sous-exploités (rapports, études, témoignages) et ne savent pas quoi en faire, plus le potentiel de récurrence si l'outil devient un réflexe de production. Ce qui plombe, c'est que",
+            "verdict": "Le facteur le plus déterminant ici, c'est la désirabilité client : les marques ont un problème réel et douloureux avec la déclinaison de leurs contenus stratégiques, et Content Reactor y répond de façon concrète, avec une logique de passage à l'acte fluide grâce au filet de sécurité humain. Ce qui tire le score vers le haut, c'est la combinaison désirabilité-potentiel commercial-alignement stratégique, tous à 8 : le produit crée de la valeur perçue immédiate pour le client tout en ouvrant une porte d'entrée vers des missions d'accompagnement éditorial, ce qui est exactement dans l'ADN de Make IT Human. Ce qui le plombe, c'est l'utilité",
             "versions": [
                 {
                     "version": 1,
                     "created_at": "2026-05-15T10:29:22+02:00",
                     "transcript": " Content Reactor, un moteur de déclinaison éditoriale à partir d'un rapport, d'une étude ou d'un témoignage. Il produit une cartographie de contenu pour LinkedIn, site, newsletter, vidéo courte, carousel et campagne. Ça, c'est à destination de nos clients. On leur propose d'avoir une petite autonomie là-dessus. et potentiellement à la fin on a « Ok, vous voulez l'intervention d'un humain, pas de problème ».",
-                    "title": "Content Reactor : de l'étude au contenu décliné",
-                    "summary": "Transformer un rapport ou témoignage en cartographie éditoriale multi-canal (LinkedIn, site, newsletter, vidéo, carousel). Porte d'entrée commerciale légère pour clients en quête d'autonomie, avec escalade vers intervention humaine DAJM.",
-                    "score": 7.4
+                    "title": "Content Reactor : déclinaison éditoriale semi-autonome",
+                    "summary": "Transformer un rapport, étude ou témoignage en cartographie éditoriale multi-canal (LinkedIn, site, newsletter, vidéo, carousel). Offrir aux clients une première autonomie avant intervention humaine DAJM. Positionner DAJM comme catalyseur stratégique, pas juste producteur.",
+                    "score": 9.9
                 }
             ]
         }
