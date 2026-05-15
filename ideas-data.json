@@ -460,6 +460,50 @@
                     "score": 6.6
                 }
             ]
+        },
+        {
+            "id": "f870277a-05e8-4a54-8211-7ea6e24f3fbc",
+            "created_at": "2026-05-15T18:27:38+02:00",
+            "status": "new",
+            "category": "Produit SaaS",
+            "idea_type": "produit_saas",
+            "main_function": "automatiser",
+            "score": 4.8,
+            "scores": {
+                "brut": 48.6,
+                "typo": 48,
+                "priorite": 33
+            },
+            "score_details": {
+                "alignement_strategique": 6,
+                "potentiel_commercial": 6,
+                "desirabilite_client": 5,
+                "differenciation": 4,
+                "faisabilite": 3,
+                "recurrence_produit": 6,
+                "valeur_preuve": 4,
+                "utilite_interne": 3,
+                "apprentissage_strategique": 2
+            },
+            "bonuses_applied": {
+                "bonus_rdv_commercial": 5
+            },
+            "maluses_applied": {
+                "malus_complexite": -12,
+                "malus_banalite": -3,
+                "malus_acheteur_flou": -5
+            },
+            "verdict": "La faisabilité est le facteur le plus déterminant ici et elle plombe sévèrement le projet : agréger du scraping, des alertes Google, des snippets, des annonces RH et du matching algorithmique façon Tinder dans un SaaS conforme RGPD et aux CGU LinkedIn, c'est un chantier de développement long et coûteux que DAJM n'a ni la structure ni le core business pour porter seul. Ce qui tire le score vers le haut, c'est la récurrence potentielle du modèle et un alignement réel avec la marque employeur, territoire où DAJM a une légitimité à parler, mais la différenciation reste faible face à des acteurs comme Pharrow, Jobteaser ou des outils de social selling déjà établis sur",
+            "versions": [
+                {
+                    "version": 1,
+                    "created_at": "2026-05-15T18:27:38+02:00",
+                    "transcript": "Création d’un outil de recherche de prospect sur en passant par du Scrappy, Google, index par les Snippet de Google et de Link TIN, par les annonces d’offres d’emploi, les annonces de dans les entreprises, faire part du Google, alerte, cela crée des signaux faibles, ça met en regard avec la stratégie, l’expertise de l’entreprise et propose des ongles avec un agent dédié à la prospect. Créer un peu façon Tinder de la marque Employeur. Ça nous permet de ressortir des profils qui pourraient être intéressant pour nous en respectant les RGPD, les règles LinkedIn et en développement une scénarisation en trois volets, trois e-mails avec la création de contenu riche envoyé et la possibilité de se connecter à calendy",
+                    "title": "Prospection intelligente marque employeur par signaux faibles",
+                    "summary": "Outil de détection de prospects (entreprises + candidats) via scraping de signaux faibles (offres d'emploi, Google alerts, LinkedIn) avec scénarisation d'outreach 3 emails et intégration Calendly. Cible : équipes marque employeur et sales cherchant à identifier des cibles pertinentes alignées sur leur expertise.",
+                    "score": 4.8
+                }
+            ]
         }
     ]
 }
