@@ -27,26 +27,45 @@
         {
             "id": "7279793e-3caf-4843-8bc1-28c7885871cb",
             "created_at": "2026-05-12T19:21:12+02:00",
-            "category": "Produit SaaS",
-            "score": 7.2,
+            "category": "Outillage IA",
+            "score": 6.2,
             "score_details": {
-                "alignement_dajm": 8,
-                "valeur_business_dajm": 7,
+                "alignement_strategique": 7,
+                "potentiel_commercial": 5,
+                "desirabilite_client": 6,
+                "differenciation": 4,
                 "faisabilite": 7,
-                "marche": 7,
-                "vitesse": 6
+                "recurrence_produit": 2,
+                "valeur_preuve": 7,
+                "utilite_interne": 2,
+                "apprentissage_strategique": 4
             },
             "versions": [
                 {
                     "version": 1,
                     "created_at": "2026-05-12T19:21:12+02:00",
                     "transcript": "Je veux développer une ressource à destination des candidats. Ils mettent leur personnalité, leurs hard skills, leurs soft skills. Une fois que leur personnalité est connue, l'intelligence artificielle leur permet de mettre des annonces d'offre d'emploi. Et en sortie, l'outil réécrit son CV pour qu'il puisse être en phase avec l'annonce. Et ça, ça serait à destination de notre page LabDiams, pour montrer qu'on a une vraie recherche d'innovation et de solutions qui sont accessibles pour les recruteurs et les candidats.",
-                    "title": "CV Intelligence — Matching candidat-offre par IA",
-                    "summary": "Outil qui analyse la personnalité et compétences du candidat, puis réécrit son CV en phase avec chaque annonce ciblée. Démonstrateur Lab DIAMS pour marque employeur et attractivité candidat.",
-                    "score": 7.2
+                    "title": "CV Matcher : Alignement candidat-offre par IA",
+                    "summary": "Outil destiné aux candidats : saisie de personnalité et compétences, analyse d'une offre d'emploi, réécriture du CV pour maximiser l'alignement. Positionné comme démo Lab DIAMS pour prouver l'innovation DAJM auprès de recruteurs et candidats.",
+                    "score": 6.2
                 }
             ],
-            "verdict": "L'alignement DAJM est le vrai moteur de ce score : l'outil s'inscrit parfaitement dans la vitrine LabDiams et renforce la crédibilité innovation de l'agence auprès des recruteurs, ce qui explique le 8\/10 sur ce critère. Ce qui plombe l'ensemble, c'est la vitesse d'exécution et la différenciation marché — des acteurs comme Kickresume ou les modules IA de LinkedIn font déjà une version de ce produit, et construire quelque chose de suffisamment distinct pour justifier l'investissement prendra du temps. En l'état, c'est un bon projet de démonstration technologique, pas encore un levier business autonome."
+            "verdict": "La valeur de preuve est le moteur principal de cet outil : il démontre concrètement la capacité de DAJM à industrialiser l'IA au service du recrutement, ce qui crédibilise le positionnement Make IT Human mieux qu'un discours commercial. Mais ce qui plombe sérieusement le score, c'est l'absence quasi totale de récurrence et d'utilité interne — c'est un objet vitrine pur, sans potentiel de revenus propres ni d'apprentissage stratégique réel pour l'agence. L'alignement DAJM est réel mais partiel : l'outil parle aux candidats, alors que la proposition de valeur de l'agence s'adresse d'abord aux recruteurs et aux entreprises, ce qui crée un",
+            "idea_type": "vitrine",
+            "main_function": "prouver",
+            "scores": {
+                "brut": 54.3,
+                "typo": 62,
+                "priorite": 66
+            },
+            "bonuses_applied": {
+                "bonus_offre_existante": 8,
+                "bonus_contenu_communicable": 4
+            },
+            "maluses_applied": {
+                "malus_banalite": -3,
+                "malus_acheteur_flou": -5
+            }
         },
         {
             "id": "71cdaa52-901a-45fa-8003-19013e44009d",
