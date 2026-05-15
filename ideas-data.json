@@ -174,6 +174,50 @@
                     "score": 9.9
                 }
             ]
+        },
+        {
+            "id": "f49442a8-4fe8-4d96-b4b7-ce4ebbfeddae",
+            "created_at": "2026-05-15T18:02:11+02:00",
+            "status": "new",
+            "category": "Développement commercial",
+            "idea_type": "commerciale",
+            "main_function": "vendre",
+            "score": 6.3,
+            "scores": {
+                "brut": 57.1,
+                "typo": 62.5,
+                "priorite": 67.5
+            },
+            "score_details": {
+                "alignement_strategique": 7,
+                "potentiel_commercial": 7,
+                "desirabilite_client": 6,
+                "differenciation": 5,
+                "faisabilite": 5,
+                "recurrence_produit": 4,
+                "valeur_preuve": 6,
+                "utilite_interne": 3,
+                "apprentissage_strategique": 3
+            },
+            "bonuses_applied": {
+                "bonus_rdv_commercial": 5,
+                "bonus_offre_existante": 8
+            },
+            "maluses_applied": {
+                "malus_banalite": -3,
+                "malus_acheteur_flou": -5
+            },
+            "verdict": "L'alignement stratégique et le potentiel commercial sont solides : l'idée adresse un vrai angle de marché, les PME sous-équipées en communication, et positionne DAJM comme porte d'entrée naturelle vers une conversion client. Mais ce qui plombe le score, c'est la faible différenciation — ce type de plateforme d'audit existe déjà sous diverses formes, et sans un avantage concurrentiel clairement articulé, on risque de construire un outil générique qui ne convertit pas mieux qu'un bon commercial. La récurrence produit quasi nulle et l'utilité interne marginale confirment que c'est un outil de prospection one-shot, pas un actif durable : à creuser seulement si DAJM est prêt à investir sur la",
+            "versions": [
+                {
+                    "version": 1,
+                    "created_at": "2026-05-15T18:02:11+02:00",
+                    "transcript": " Je voudrais lancer une plateforme dédiée à l'influence pour des entreprises qui n'ont pas les moyens de s'acheter les services d'une agence, une grosse agence. La plateforme, en fait, mettrai, ferait le point sur leur communication et proposerait de mettre, d'exprimer leurs besoins et proposerait potentiellement des profils. et après derrière ils peuvent se rendre en contact avec nous pour lancer la production donc c'est quelque chose d'assez direct avec des recommandations donc ça c'est vraiment un outil de commercialisation d'une expertise ça serait je pense à creuser",
+                    "title": "Plateforme d'audit communication pour PME + conversion DAJM",
+                    "summary": "Plateforme SaaS semi-automatisée permettant aux PME sans budget agence de diagnostiquer leurs besoins en communication et influence, générant des leads qualifiés pour DAJM convertibles en missions. Croise deux enjeux : démocratiser l'accès à l'expertise DAJM et créer un pipeline commercial structuré.",
+                    "score": 6.3
+                }
+            ]
         }
     ]
 }
