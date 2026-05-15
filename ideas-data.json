@@ -295,40 +295,40 @@
             "category": "Développement commercial",
             "idea_type": "commerciale",
             "main_function": "vendre",
-            "score": 7.1,
+            "score": 7.4,
             "scores": {
                 "brut": 64.3,
-                "typo": 70.5,
-                "priorite": 75.5
+                "typo": 73.5,
+                "priorite": 91.5
             },
             "score_details": {
                 "alignement_strategique": 8,
-                "potentiel_commercial": 7,
+                "potentiel_commercial": 8,
                 "desirabilite_client": 7,
                 "differenciation": 6,
                 "faisabilite": 7,
-                "recurrence_produit": 3,
+                "recurrence_produit": 2,
                 "valeur_preuve": 7,
-                "utilite_interne": 2,
+                "utilite_interne": 3,
                 "apprentissage_strategique": 3
             },
             "bonuses_applied": {
                 "bonus_offre_existante": 8,
-                "bonus_rdv_commercial": 5
+                "bonus_rdv_commercial": 5,
+                "bonus_appel_offres": 8
             },
             "maluses_applied": {
-                "malus_banalite": -3,
-                "malus_acheteur_flou": -5
+                "malus_banalite": -3
             },
-            "verdict": "L'alignement stratégique fort (8\/10) est le vrai moteur de cette idée : elle positionne DAJM comme expert référent sur l'attractivité des métiers et la marque employeur, un territoire où l'agence a une légitimité réelle et un discours différenciant. Ce qui tire le score vers le haut, c'est la combinaison désirabilité client \/ valeur de preuve — les PME ont un vrai besoin non adressé sur ce sujet, et le diagnostic crée un premier contact qualifié à fort potentiel de conversion. Ce qui le plombe sérieusement, c'est l'absence quasi-totale de récurrence (3\/10) et d'utilité interne (2\/10) : c'est un outil one-shot d'acquisition, pas un actif",
+            "verdict": "L'alignement stratégique et le potentiel commercial sont solides : cet outil répond directement à une demande réelle des PME sur des sujets en tension — marque employeur, attractivité métiers, réputation — et positionne DAJM comme expert conseil avant même le premier RDV. Ce qui tire le score vers le haut, c'est sa fonction de génération de leads qualifiés avec un parcours de conversion intégré, cohérent avec l'ADN commercial de l'agence. Ce qui le plombe en revanche, c'est l'absence quasi-totale de récurrence produit et de valeur interne : une fois créé, cet outil ne génère pas de revenus répétables par lui-même et n'enrichit pas significativement les pratiques ou l'apprentissage collectif de D",
             "versions": [
                 {
                     "version": 1,
                     "created_at": "2026-05-15T18:06:00+02:00",
                     "transcript": " un diagnostiqueur pour les entreprises, les PME, pour qu'elles fassent le point sur leur manière de communiquer, sur leur métier en tension, sur l'alternance, sur les métiers qu'ils font, pour essayer d'attirer comment ils font de la promotion des métiers, comment ils font de la de la marque employer. Et donc, ce serait avec des jauges, un point, un audit rapide sur l'irréputation également. Et en fait, ça propose par la suite que de nous contacter. Ça propose des recommandations. Puis en fait, à la fin, ça nous propose de nous contacter pour aller plus loin sur le sujet.",
-                    "title": "Diagnostic Rapide Communication & Attractivité Métier",
-                    "summary": "Outil d'auto-diagnostic pour PME\/ETI sur leur communication employeur, attractivité métier et marque employeur. Propose jauges visuelles, scoring d'e-réputation, puis recommandations. Fonction commerciale : qualifier le prospect, proposer audit complet DAJM en face-à-face.",
-                    "score": 7.1
+                    "title": "Audit rapide communicatio & attractivité métiers",
+                    "summary": "Outil d'autodiagnostic pour PME\/ETI sur leur communication RH, marque employeur, promotion des métiers et attractivité. Propose audit en jauges puis recommandations + appel à contact. Fonction : qualifier les prospects et amorcer les trois offres DAJM (clarifier, donner vie, générer résultats).",
+                    "score": 7.4
                 }
             ]
         },
