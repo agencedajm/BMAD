@@ -101,7 +101,7 @@
         {
             "id": "7a2cf261-799f-4c1a-bd1a-915facf7bfb7",
             "created_at": "2026-05-15T10:28:14+02:00",
-            "status": "new",
+            "status": "wip",
             "category": "Produit SaaS",
             "score": 7.4,
             "score_details": {
