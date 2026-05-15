@@ -80,43 +80,40 @@
             "created_at": "2026-05-13T14:26:34+02:00",
             "status": "new",
             "category": "Produit SaaS",
-            "score": 10,
+            "score": 6.7,
             "score_details": {
-                "alignement_strategique": 9,
-                "potentiel_commercial": 8,
+                "alignement_strategique": 8,
+                "potentiel_commercial": 7,
                 "desirabilite_client": 7,
-                "differenciation": 8,
-                "faisabilite": 6,
+                "differenciation": 7,
+                "faisabilite": 5,
                 "recurrence_produit": 7,
-                "valeur_preuve": 8,
+                "valeur_preuve": 7,
                 "utilite_interne": 6,
                 "apprentissage_strategique": 4
             },
-            "verdict": "L'alignement stratégique est le moteur principal de ce score : Radar Marché résout un vrai problème DAJM, celui de transformer une intuition commerciale en séquence d'approche structurée et personnalisée, et c'est précisément là où l'agence a une légitimité différenciante. Ce qui tire le score vers le haut, c'est la combinaison angle d'attaque plus lead magnet plus CRM augmenté, une chaîne de valeur cohérente qui dépasse largement l'outillage de prospection standard. Ce qui le plombe, c'est la faisabilité à 6 et l'apprentissage stratégique à 4 : construire ce produit sans ressource tech dédiée est un risque réel, et si DAJM ne le documente",
+            "verdict": "Le facteur le plus déterminant ici est la faisabilité : à 5\/10, elle plombe un projet par ailleurs bien construit, parce que l'ambition technique est réelle — moteur de ciblage, moteur d'angles, moteur de séquence, CRM, connecteurs — et que sans ressource dev dédiée ou partenaire technique fiable, ce produit restera un beau document stratégique. Ce qui tire le score vers le haut, c'est l'alignement DAJM : le produit ne fait pas semblant d'être générique, il est conçu pour une agence qui vend exactement ce qu'il automatise, ce qui donne une cohérence rare entre l'outil et son utilisateur, et crée une preuve commerciale vivante à chaque usage. Ce qui le plombe",
             "versions": [
                 {
                     "version": 1,
                     "created_at": "2026-05-13T14:26:34+02:00",
                     "transcript": "1. Le vrai projet\r\n\r\nTu ne construis pas “un CRM IA”.\r\n\r\nTu construis une machine de prospection personnalisée, pilotée par l’IA, qui transforme une cible LinkedIn en séquence commerciale intelligente.\r\n\r\nLe bon nom de travail serait plutôt\r\n\r\nProspection Intelligence Platform\r\n\r\nOu plus DAJM\r\n\r\nRadar Marché\r\nSignal\r\nTraction\r\nAngle\r\nFirst Move\r\n\r\n2. La promesse centrale\r\n\r\nL’application doit faire 5 choses.\r\n\r\n1. Identifier les bons profils\r\n2. Qualifier leur pertinence\r\n3. Comprendre leur contexte\r\n4. Trouver un angle d’approche intelligent\r\n5. Produire une séquence de contact personnalisée avec contenus associés\r\n\r\nLe cœur du produit n’est pas le CRM.\r\nLe cœur du produit, c’est l’angle d’attaque.\r\n\r\nC’est là que la valeur se crée.\r\n\r\n3. Le parcours utilisateur cible\r\n\r\nÉtape 1\r\n\r\nParamétrage de l’identité DAJM\r\n\r\nOn renseigne une base stratégique stable.\r\n\r\nÀ intégrer.\r\n\r\n* Positionnement\r\n* Promesse de valeur\r\n* Cibles prioritaires\r\n* Offres\r\n* Expertises\r\n* Références clients\r\n* Ton éditorial\r\n* Cas d’usage\r\n* Secteurs à éviter\r\n* Signaux faibles recherchés\r\n* Critères Go \/ No Go\r\n\r\nObjectif.\r\nCréer une mémoire commerciale de l’agence.\r\n\r\nÉtape 2\r\n\r\nRecherche et sélection des profils\r\n\r\nL’outil ne scrape pas massivement.\r\nIl assiste la navigation, l’analyse et la sélection.\r\n\r\nSources possibles.\r\n\r\n* LinkedIn\r\n* Site de l’entreprise\r\n* Actualités publiques\r\n* Pages recrutement\r\n* Communiqués\r\n* Rapports institutionnels\r\n* Posts récents\r\n* Données CRM existantes\r\n\r\nSortie quotidienne.\r\n\r\n3 profils recommandés par jour, chacun avec.\r\n\r\n* Nom\r\n* Fonction\r\n* Entreprise\r\n* Niveau de pertinence\r\n* Raison de la recommandation\r\n* Opportunité supposée\r\n* Risque ou faiblesse du ciblage\r\n* Priorité de contact\r\n\r\nÉtape 3\r\n\r\nScoring du profil\r\n\r\nLe scoring doit rester explicable. Sinon c’est du gadget.\r\n\r\nCritères possibles.\r\n\r\n* Correspondance avec les cibles DAJM\r\n* Secteur compatible\r\n* Taille de structure\r\n* Signaux de besoin\r\n* Activité récente\r\n* Maturité communication \/ RH\r\n* Potentiel budgétaire\r\n* Accessibilité du contact\r\n* Pertinence avec une offre DAJM\r\n* Temporalité probable du besoin\r\n\r\nNotation simple.\r\n\r\n* 80 à 100\r\n    Très prioritaire\r\n* 60 à 79\r\n    Intéressant\r\n* 40 à 59\r\n    À nourrir\r\n* Moins de 40\r\n    Non prioritaire\r\n\r\nÉtape 4\r\n\r\nRecherche approfondie\r\n\r\nQuand tu sélectionnes un profil, l’outil lance une analyse plus profonde.\r\n\r\nIl doit produire.\r\n\r\n* Fiche personne\r\n* Fiche entreprise\r\n* Enjeux probables\r\n* Actualités utiles\r\n* Hypothèses de besoin\r\n* Points de connexion avec DAJM\r\n* Risques de mauvais angle\r\n* Niveau de personnalisation possible\r\n\r\nImportant.\r\nL’outil ne doit pas inventer. Il doit distinguer.\r\n\r\n* Ce qui est vérifié\r\n* Ce qui est probable\r\n* Ce qui est hypothétique\r\n\r\nÉtape 5\r\n\r\nGénération des angles d’approche\r\n\r\nC’est la partie noble du système.\r\n\r\nL’outil propose 3 angles.\r\n\r\nExemples.\r\n\r\nAngle business\r\n\r\nL’entreprise a un enjeu de visibilité, de recrutement, de notoriété ou de transformation.\r\n\r\nAngle métier\r\n\r\nL’entreprise doit rendre ses métiers plus désirables, plus lisibles, plus incarnés.\r\n\r\nAngle dirigeant \/ RH \/ communication\r\n\r\nLa personne ciblée porte probablement un sujet précis. L’e-mail part de son rôle, pas de ton offre.\r\n\r\nChaque angle doit contenir.\r\n\r\n* Intuition stratégique\r\n* Pourquoi cet angle est pertinent\r\n* Offre DAJM associée\r\n* Risque de l’angle\r\n* Niveau de personnalisation\r\n* Phrase d’ouverture possible\r\n\r\nÉtape 6\r\n\r\nScénarisation des 3 e-mails\r\n\r\nLa séquence doit être courte. Pas de tunnel bavard.\r\n\r\nMail 1\r\n\r\nPremier contact personnalisé\r\n\r\nObjectif.\r\nCréer une réaction, pas vendre toute l’agence.\r\n\r\nContenu.\r\n\r\n* Accroche ultra contextualisée\r\n* Observation stratégique\r\n* Pont avec DAJM\r\n* Proposition d’échange courte\r\n\r\nMail 2\r\n\r\nLead magnet personnalisé\r\n\r\nObjectif.\r\nApporter une preuve de réflexion.\r\n\r\nContenu possible.\r\n\r\n* Mini audit\r\n* Note d’opportunité\r\n* Benchmark sectoriel\r\n* Analyse de communication employeur\r\n* Idée de campagne\r\n* Grille de lecture\r\n* Diagnostic express\r\n\r\nL’outil propose le contenu, puis l’envoie vers Gamma pour mise en forme.\r\n\r\nMail 3\r\n\r\nRelance orientée rendez-vous\r\n\r\nObjectif.\r\nTransformer l’intérêt en échange.\r\n\r\nContenu.\r\n\r\n* Rappel du sujet\r\n* Valeur du lead magnet\r\n* Proposition de rendez-vous\r\n* Lien calendrier\r\n\r\nÉtape 7\r\n\r\nProduction du lead magnet\r\n\r\nLe lead magnet doit être généré selon des formats standardisés.\r\n\r\nFormats prioritaires.\r\n\r\n* Note stratégique 1 page\r\n* Mini audit de présence employeur\r\n* Benchmark de 3 concurrents\r\n* Idée de campagne 360\r\n* Fiche opportunité\r\n* Diagnostic de page carrière\r\n* Analyse de visibilité métier\r\n\r\nGamma intervient seulement pour la mise en forme.\r\nL’intelligence éditoriale doit rester dans ton outil.\r\n\r\nÉtape 8\r\n\r\nCRM augmenté\r\n\r\nLe CRM stocke.\r\n\r\n* Contact\r\n* Entreprise\r\n* Source\r\n* Score\r\n* Angle retenu\r\n* E-mails générés\r\n* Lead magnet envoyé\r\n* Statut\r\n* Réponses\r\n* Historique\r\n* Relances\r\n* Rendez-vous\r\n* Notes manuelles\r\n* Opportunités commerciales\r\n\r\nStatuts simples.\r\n\r\n* À qualifier\r\n* Qualifié\r\n* Mail 1 envoyé\r\n* Mail 2 envoyé\r\n* Mail 3 envoyé\r\n* Réponse reçue\r\n* Rendez-vous pris\r\n* Opportunité ouverte\r\n* Perdu\r\n* À nourrir\r\n* Exclu\r\n\r\n4. Les briques fonctionnelles\r\n\r\nBase entreprise\r\n\r\nMémoire DAJM.\r\nC’est le socle.\r\n\r\nMoteur de ciblage\r\n\r\nRecherche, qualification, scoring.\r\n\r\nMoteur d’analyse\r\n\r\nPersonne, entreprise, contexte, signaux faibles.\r\n\r\nMoteur d’angles\r\n\r\nTransformation du contexte en opportunité commerciale.\r\n\r\nMoteur de séquence\r\n\r\nCréation des 3 e-mails.\r\n\r\nMoteur de contenu\r\n\r\nCréation du lead magnet.\r\n\r\nCRM\r\n\r\nSuivi, statut, historique, relances.\r\n\r\nConnecteurs\r\n\r\nOutlook, calendrier, Gamma, LinkedIn en navigation assistée, éventuellement Notion ou Google Sheets au début",
-                    "title": "Radar Marché : Machine de prospection intelligente DAJM",
-                    "summary": "Plateforme de prospection pilotée par IA qui transforme des profils LinkedIn en séquences commerciales personnalisées. Combine qualification intelligente, analyse contextuelle et génération d'angles d'attaque stratégiques pour accélérer la conversion commerciale DAJM.",
-                    "score": 10
+                    "title": "Radar Marché : Prospection IA personnalisée DAJM",
+                    "summary": "Plateforme d'intelligence commerciale qui transforme une cible LinkedIn en séquence de prospection hyper-personnalisée avec angles d'approche intelligents et lead magnets contextualisés. Cœur de la valeur : trouver l'angle stratégique pertinent, pas gérer un CRM. Crée une mémoire commerciale DAJM exploitable et répétable.",
+                    "score": 6.7
                 }
             ],
             "idea_type": "produit_saas",
-            "main_function": "vendre",
+            "main_function": "vendre|automatiser",
             "scores": {
-                "brut": 75.7,
-                "typo": 72.5,
-                "priorite": 100
+                "brut": 68.6,
+                "typo": 67,
+                "priorite": 83
             },
             "bonuses_applied": {
                 "bonus_offre_existante": 8,
                 "bonus_appel_offres": 8,
-                "bonus_rdv_commercial": 5,
-                "bonus_actif_proprietaire": 5,
-                "bonus_production_interne": 6,
-                "bonus_contenu_communicable": 4
+                "bonus_rdv_commercial": 5
             },
             "maluses_applied": {
                 "malus_complexite": -5
