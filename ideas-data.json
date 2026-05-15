@@ -376,7 +376,7 @@
         {
             "id": "597cb0ba-6412-43b6-b3b9-b730cf3e971f",
             "created_at": "2026-05-15T18:15:12+02:00",
-            "status": "new",
+            "status": "wip",
             "category": "Produit SaaS",
             "idea_type": "produit_saas",
             "main_function": "vendre",
