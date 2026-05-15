@@ -97,31 +97,6 @@
                     "score": 6.4
                 }
             ]
-        },
-        {
-            "id": "68ef1425-e49c-49b9-93e8-c702787af35f",
-            "created_at": "2026-05-15T08:44:42+02:00",
-            "status": "new",
-            "category": "Autre",
-            "score": 4.3,
-            "score_details": {
-                "alignement_dajm": 2,
-                "valeur_business_dajm": 3,
-                "faisabilite": 6,
-                "marche": 7,
-                "vitesse": 7
-            },
-            "verdict": "L'alignement DAJM est catastrophique : cette idée appartient au monde du retail\/comparaison de prix, sans aucune dimension SaaS B2B, IA à forte valeur ajoutée ou levier marketing scalable qui constituent notre cœur de métier. Le marché existe et la faisabilité technique est réelle, ce qui sauve partiellement le score, mais ces atouts ne bénéficient pas à DAJM puisqu'il faudrait construire une offre B2C de géolocalisation promotionnelle totalement étrangère à notre positionnement. En l'état, cette idée n'a rien à faire dans notre pipeline : à rejeter ou à céder à un acteur du secteur retail.",
-            "versions": [
-                {
-                    "version": 1,
-                    "created_at": "2026-05-15T08:44:42+02:00",
-                    "transcript": "Trouver la promotion d’articles de consommation au bon prix dans le quartier",
-                    "title": "Promotional Price Finder – Hors-cible DAJM",
-                    "summary": "Application de géolocalisation des promotions commerciales par quartier. Cible : consommateurs finaux cherchant des deals. Aucun lien avec la communication complexe, l'attractivité RH ou Make IT Human.",
-                    "score": 4.3
-                }
-            ]
         }
     ]
 }
