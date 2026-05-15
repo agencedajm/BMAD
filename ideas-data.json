@@ -417,6 +417,49 @@
                     "score": 5.6
                 }
             ]
+        },
+        {
+            "id": "f0638a93-0ee5-4ba1-a258-1b1bdb866ab0",
+            "created_at": "2026-05-15T18:18:15+02:00",
+            "status": "new",
+            "category": "Outillage interne",
+            "idea_type": "outil_interne",
+            "main_function": "structurer",
+            "score": 6.6,
+            "scores": {
+                "brut": 32.9,
+                "typo": 66,
+                "priorite": 59
+            },
+            "score_details": {
+                "alignement_strategique": 5,
+                "potentiel_commercial": 2,
+                "desirabilite_client": 1,
+                "differenciation": 3,
+                "faisabilite": 9,
+                "recurrence_produit": 1,
+                "valeur_preuve": 2,
+                "utilite_interne": 7,
+                "apprentissage_strategique": 2
+            },
+            "bonuses_applied": {
+                "bonus_production_interne": 6
+            },
+            "maluses_applied": {
+                "malus_banalite": -3,
+                "malus_acheteur_flou": -10
+            },
+            "verdict": "La faisabilité quasi parfaite (9\/10) est ici le seul moteur réel de cette idée, ce qui en dit long sur sa portée stratégique limitée. Ce qui plombe le score : une désirabilité client et une récurrence produit au plancher (1\/10 chacun), aucun potentiel commercial identifiable, et zéro valeur de preuve — autrement dit, c'est une micro-amélioration UX interne qui ne génère ni apprentissage, ni levier de croissance pour DAJM. L'utilité interne réelle existe (7\/10) et justifie de l'implémenter rapidement sans y consacrer de ressources significatives, mais cette idée ne s'inscrit dans aucune dynamique stratégique de l'agence et doit rester ce qu",
+            "versions": [
+                {
+                    "version": 1,
+                    "created_at": "2026-05-15T18:18:15+02:00",
+                    "transcript": " ça c'est vraiment une note interne pas forcément obligé de la noter mais c'est pour dire que l'idée à implanter sur idea catcher c'est de faire que quand on ajoute une idée l'outil la montre enfin centre l'idée centre l'idée qui vient d'être ajoutée avec une mise en exergue pour être sûr qu'on comprend bien où elle est",
+                    "title": "Centrage automatique des idées dans Idea Catcher",
+                    "summary": "Amélioration UX d'Idea Catcher : quand une nouvelle idée est ajoutée, l'outil la centre visuellement et la met en exergue pour clarifier sa position dans la liste. Fonction : structurer le flux de travail créatif interne et réduire la charge cognitive lors de l'ajout.",
+                    "score": 6.6
+                }
+            ]
         }
     ]
 }
