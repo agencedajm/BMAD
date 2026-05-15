@@ -4,25 +4,44 @@
             "id": "e3b30cf4-7f1c-45a9-87f9-134bddaedac9",
             "created_at": "2026-05-12T19:11:49+02:00",
             "category": "Produit SaaS",
-            "score": 5.3,
+            "score": 6.5,
             "score_details": {
-                "alignement_dajm": 5,
+                "alignement_strategique": 8,
                 "potentiel_commercial": 6,
+                "desirabilite_client": 7,
+                "differenciation": 6,
                 "faisabilite": 5,
-                "marche": 6,
-                "vitesse": 4
+                "recurrence_produit": 7,
+                "valeur_preuve": 6,
+                "utilite_interne": 3,
+                "apprentissage_strategique": 4
             },
             "versions": [
                 {
                     "version": 1,
                     "created_at": "2026-05-12T19:11:49+02:00",
                     "transcript": "Je voudrais créer des patchs, de faire de la gamification sur des outils et que par jalons, quand les personnes atteignent un certain niveau, comme Local Guide sur Google, les gens acquièrent des skills qui sont personnalisés. C'est-à-dire qu'en fin de compte, il se crée un portfolio de skills qu'ils pourraient transporter dans leurs différentes entreprises.",
-                    "title": "Portfolio de Skills Gamifié et Transportable",
-                    "summary": "Système de gamification permettant aux utilisateurs d'acquérir des badges\/skills validés par jalons, constituant un portfolio professionnel portable d'une entreprise à l'autre. Cible : salariés, apprenants, TPE\/PME souhaitant valoriser les compétences internes. Angle DAJM : croisement attractivité RH, montée en compétences et marque employeur.",
-                    "score": 5.3
+                    "title": "Portfolio de Skills Gamifiés pour Mobilité Professionnelle",
+                    "summary": "Créer un système de gamification avec patchs et jalons qui permet aux professionnels en tension de constituer un portfolio de compétences transportable entre entreprises. Angle DAJM : rendre visible et désirable l'acquisition de skills, transformer l'attractivité en trajectoire personnelle, préparer une offre de marque employeur + formation.",
+                    "score": 6.5
                 }
             ],
-            "verdict": "L'idée touche un vrai sujet RH — la valorisation des compétences informelles — mais elle arrive sur un marché déjà encombré (Credly, Badgr, LinkedIn Skills, 360Learning) sans différenciation technique ou positionnelle clairement exprimée. L'alignement DAJM reste périphérique : le lien avec Make IT Human et les sujets complexes (attractivité, recrutement, marque employeur) est possible mais non évident en l'état. La faisabilité est réelle sur le périmètre gamification\/badges, mais la dimension 'portfolio portable inter-entreprises' implique des enjeux d'interopérabilité et de standardisation (Open Badges ?) qui alourdissent considérablement le chantier et repoussent le premier revenu."
+            "verdict": "L'alignement stratégique est le facteur le plus solide ici (8\/10) : l'idée répond à un vrai mouvement de fond sur la mobilité professionnelle et la valorisation des compétences transversales, ce qui lui donne une légitimité de marché réelle. Ce qui tire le score vers le haut, c'est la désirabilité client et la récurrence potentielle du modèle SaaS, deux signaux positifs pour une offre qui pourrait créer de l'attachement utilisateur dans la durée. Ce qui le plombe sévèrement, c'est la faisabilité technique (5\/10), une différenciation insuffisamment tranchée face à des acteurs comme Credly ou LinkedIn Skills, et surtout une utilité interne quasi nulle pour DAJM (3\/10",
+            "idea_type": "produit_saas",
+            "main_function": "preparer",
+            "scores": {
+                "brut": 64.3,
+                "typo": 64.5,
+                "priorite": 66.5
+            },
+            "bonuses_applied": {
+                "bonus_appel_offres": 8,
+                "bonus_contenu_communicable": 4
+            },
+            "maluses_applied": {
+                "malus_complexite": -5,
+                "malus_acheteur_flou": -5
+            }
         },
         {
             "id": "7279793e-3caf-4843-8bc1-28c7885871cb",
