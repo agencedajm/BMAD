@@ -251,6 +251,53 @@ Contacter des agences et cabinets de communication externe pour établir des par
 
 ---
 
+## IDÉE 009 — Landing page Lab DIAMS façon App Store RH
+**Date de capture** : 2026-05-16
+**Statut** : 🌱 Exploration initiale
+**Source** : Arnaud
+**Secteur** : Communication digitale / Acquisition / Marque DAJM
+**Appartenance** : DAJM (vitrine + porte d'entrée commerciale)
+
+### Description
+Une landing page qui présente l'ensemble des solutions développées par Lab DIAMS sous un format inspiré de l'App Store — mais centré sur les RH, le recrutement et le management. Chaque outil est présenté comme une "app" : nom, description courte, cas d'usage, note utilisateur, témoignages, et un CTA à faible friction ("Je veux tester", "Ça m'intéresse").
+
+L'objectif est double :
+1. **Montrer la démarche** : DAJM construit activement des solutions IA, ce n'est pas un discours — c'est visible, tangible, évolutif
+2. **Générer des leads** : chaque tool card est une porte d'entrée pour capter des intéressés avant même que le produit soit finalisé
+
+### Format envisagé
+- Page web statique ou légère (pas de backend complexe au lancement)
+- Grid de "app cards" : icône + nom + tagline + note + 1 témoignage court
+- CTA par outil : "Tester" / "Me notifier au lancement" / "En savoir plus"
+- CTA global : "Proposer un cas d'usage" ou "Rejoindre les bêta-testeurs"
+- Filtre possible par catégorie : Recrutement / Marque employeur / Management / Candidat
+
+### Lien stratégique
+- Vitrine centrale pour toutes les idées 003, 004, 005, 006, 007 (les "apps" du Lab)
+- Porte d'entrée Lab DIAMS distincte de l'offre commerciale DAJM
+- Alimente le pipeline leads : quelqu'un qui clique sur "je veux tester" = prospect qualifié
+- Cohérent avec le plan DAJM 2030, Axe D (développement commercial à faible friction)
+
+### Avantages identifiés
+- Format App Store = immédiatement compréhensible, pas besoin d'expliquer le concept
+- Montre l'ambition d'un écosystème, pas d'un one-shot
+- Les ratings et témoignages créent de la preuve sociale dès le lancement (même si early)
+- Permet de lancer sans que les produits soient prêts : les CTA de type "me notifier" sont légitimes
+
+### Questions à valider
+- [ ] Quel est le domaine / nom de la landing ? (labdiams.fr ? diams.io ?)
+- [ ] Les témoignages au lancement : vrais bêta-testeurs ou cas d'usage fictifs contextualisés ?
+- [ ] Quelle technologie ? (Webflow, Framer, Astro, page GitHub Pages...)
+- [ ] Lab DIAMS est-il une marque distincte de DAJM ou une sous-marque ?
+- [ ] Qui maintient la page quand un nouvel outil est ajouté ?
+
+### Vigilance
+- Si le catalogue est trop maigre au lancement (1-2 outils), le format App Store peut faire vide
+- Ne pas promettre ce qui n'existe pas encore — les CTA "me notifier" doivent être honnêtes sur la maturité
+- La maintenance du contenu (notes, témoignages) demande un process léger mais régulier
+
+---
+
 ## 📥 Backlog Idées Brutes
 
 *(idées mentionnées rapidement, à développer)*
