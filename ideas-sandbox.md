@@ -277,10 +277,29 @@ L'objectif est double :
 - **Technologie** : code natif (HTML/CSS/JS ou framework léger) via Claude Code → micro-interactions plus puissantes et déploiement plus rapide qu'avec Framer ou Webflow
 - **Pas de backend au lancement** : page statique avec formulaire de capture simple
 
+### Modèle de conversion consolidé (acté)
+
+Même parcours UX pour toutes les cards, peu importe le stade de l'outil :
+
+| Stade | Accès | Friction | CTA final |
+|---|---|---|---|
+| **Disponible** | Demo réelle après inscription | Quota 1-2 productions puis bloqué | "Contactez-nous pour accéder / obtenir une offre" |
+| **Beta** | Accès limité après inscription | Même quota | Même CTA |
+| **En développement** | Aucun accès | Formulaire d'expression d'intérêt | Notifié au lancement + suivi DAJM |
+
+**Logique** : le visiteur vit le produit avant d'être converti. Le blocage post-quota est justifié parce que la valeur a été démontrée — DAJM entre en contact avec un prospect qui a déjà vu ce que ça fait.
+
+**Implications techniques** :
+- Authentification légère (magic link ou email + password)
+- Suivi quota par utilisateur × par outil (Supabase ou PocketBase recommandé)
+- État "quota atteint" avec CTA dédié par outil
+- Pour les outils non développés : formulaire statique, pas de backend
+
 ### Questions restantes
 - [ ] Sous-domaine exact : `lab.dajm.fr` ou autre ?
 - [ ] Les témoignages au lancement : vrais bêta-testeurs ou cas d'usage contextualisés ?
 - [ ] Qui maintient la page quand un nouvel outil est ajouté ? (process de mise à jour)
+- [ ] Infra backend pour les demos : Supabase, PocketBase, ou autre ?
 
 ### Lien stratégique
 - Vitrine centrale pour toutes les idées 003, 004, 005, 006, 007 (les "apps" du Lab)
