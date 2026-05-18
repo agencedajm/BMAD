@@ -546,6 +546,48 @@
                     "score": 7.7
                 }
             ]
+        },
+        {
+            "id": "6dbe7c42-3fd5-4368-96be-6dafbb0df850",
+            "created_at": "2026-05-18T09:55:54+02:00",
+            "status": "new",
+            "category": "Développement commercial",
+            "idea_type": "commerciale",
+            "main_function": "produire",
+            "score": 7.1,
+            "scores": {
+                "brut": 68.6,
+                "typo": 71,
+                "priorite": 88
+            },
+            "score_details": {
+                "alignement_strategique": 8,
+                "potentiel_commercial": 7,
+                "desirabilite_client": 7,
+                "differenciation": 7,
+                "faisabilite": 6,
+                "recurrence_produit": 6,
+                "valeur_preuve": 7,
+                "utilite_interne": 6,
+                "apprentissage_strategique": 5
+            },
+            "bonuses_applied": {
+                "bonus_offre_existante": 8,
+                "bonus_rdv_commercial": 5,
+                "bonus_contenu_communicable": 4
+            },
+            "maluses_applied": [],
+            "verdict": "L'alignement stratégique est le facteur décisif ici : transformer l'expertise pédagogique de DAJM en produit scalable via l'IA répond directement à une demande croissante de montée en compétence rapide dans les organisations, ce qui tire le score à 88 en priorité malgré des scores bruts modestes. Ce qui plombe le potentiel, c'est la faisabilité et la récurrence produit — le marché des kits pédagogiques IA se densifie vite, et sans un modèle d'abonnement ou une logique de plateforme clairement définie, on risque de rester sur du one-shot peu rentable. À court terme, l'intérêt est réel pour asseoir la crédibilité Make IT Human sur le terrain de la",
+            "versions": [
+                {
+                    "version": 1,
+                    "created_at": "2026-05-18T09:55:54+02:00",
+                    "transcript": "Autonomie quitte, un générateur de kits pédagogiques pour rendre une cible autonome sur un sujet. Par exemple comprendre une réforme, utiliser un outil, adopter une nouvelle pratique, préparer une mobilité.",
+                    "title": "Autonomie Quitte — Kit pédagogique généré IA",
+                    "summary": "Générateur automatisé de kits pédagogiques pour rendre autonome une cible sur un sujet complexe (réforme, outil, pratique, mobilité). Combine la spécialité DAJM (pédagogie des sujets difficiles) avec une production scalable, créant une offre hybride entre service et produit.",
+                    "score": 7.1
+                }
+            ]
         }
     ]
 }
