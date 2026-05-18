@@ -632,32 +632,6 @@
                     "score": 6.3
                 }
             ]
-        },
-        {
-            "id": "dfaec5e4-7d75-4317-af7f-9de4e9e16ab7",
-            "created_at": "2026-05-18T21:12:59+02:00",
-            "status": "new",
-            "urgent": true,
-            "content_type": "tache",
-            "category": "Tâche",
-            "idea_type": "tache",
-            "main_function": "",
-            "score": null,
-            "scores": null,
-            "score_details": null,
-            "bonuses_applied": [],
-            "maluses_applied": [],
-            "verdict": "",
-            "versions": [
-                {
-                    "version": 1,
-                    "created_at": "2026-05-18T21:12:59+02:00",
-                    "transcript": "Finir la proposition pour mazet",
-                    "title": "Finir la proposition pour Mazet",
-                    "summary": "Action concrète : compléter et finaliser la proposition commerciale destinée au client\/prospect Mazet. À ne pas oublier.",
-                    "score": null
-                }
-            ]
         }
     ]
 }
