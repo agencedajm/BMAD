@@ -504,6 +504,48 @@
                     "score": 4.8
                 }
             ]
+        },
+        {
+            "id": "b6799f23-7b7e-40dc-84a4-db302bfc3ace",
+            "created_at": "2026-05-18T08:59:53+02:00",
+            "status": "new",
+            "category": "Outillage IA",
+            "idea_type": "vitrine",
+            "main_function": "prouver",
+            "score": 7.7,
+            "scores": {
+                "brut": 68.6,
+                "typo": 77,
+                "priorite": 94
+            },
+            "score_details": {
+                "alignement_strategique": 8,
+                "potentiel_commercial": 7,
+                "desirabilite_client": 7,
+                "differenciation": 8,
+                "faisabilite": 7,
+                "recurrence_produit": 3,
+                "valeur_preuve": 8,
+                "utilite_interne": 6,
+                "apprentissage_strategique": 6
+            },
+            "bonuses_applied": {
+                "bonus_offre_existante": 8,
+                "bonus_rdv_commercial": 5,
+                "bonus_contenu_communicable": 4
+            },
+            "maluses_applied": [],
+            "verdict": "La différenciation et la valeur de preuve sont les moteurs principaux de ce score élevé : un outil d'audit \"humanité digitale\" propriétaire est rare sur le marché et crédibilise immédiatement le positionnement Make IT Human bien au-delà d'un simple discours. Ce qui plombe le score, c'est la recurrence produit quasi nulle — on est sur un actif de vitrine, pas un générateur de flux récurrent, et le potentiel commercial reste limité à de l'influence indirecte plutôt qu'à une ligne de revenu tangible. Alignement DAJM : fort, c'est exactement le type d'artefact qui transforme une promesse de marque en preuve concrète, mais il faudra éviter que ça reste un bel objet marketing sans adoption terrain",
+            "versions": [
+                {
+                    "version": 1,
+                    "created_at": "2026-05-18T08:59:53+02:00",
+                    "transcript": "Un score maison pour évaluer si un dispositif digital reste humain, critères possibles clarté, autonomie, accessibilité, montée en compétence, sobriété, confiance, responsabilité.",
+                    "title": "Score Make IT Human — Audit humanité digitale",
+                    "summary": "Créer un référentiel propriétaire évaluant si un dispositif digital reste humain (clarté, autonomie, accessibilité, compétence, sobriété, confiance, responsabilité). Outil de diagnostic et de différenciation commerciale pour positionner DAJM comme expert en transformation humaine, pas automatisation aveugle.",
+                    "score": 7.7
+                }
+            ]
         }
     ]
 }
