@@ -637,7 +637,7 @@
             "id": "dfaec5e4-7d75-4317-af7f-9de4e9e16ab7",
             "created_at": "2026-05-18T21:12:59+02:00",
             "status": "new",
-            "urgent": false,
+            "urgent": true,
             "content_type": "tache",
             "category": "Tâche",
             "idea_type": "tache",
