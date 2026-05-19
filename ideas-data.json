@@ -632,6 +632,51 @@
                     "score": 6.3
                 }
             ]
+        },
+        {
+            "id": "4197ba0c-4bb4-44ed-8dde-c2048532b088",
+            "created_at": "2026-05-19T07:42:50+02:00",
+            "status": "new",
+            "urgent": false,
+            "content_type": "idee",
+            "category": "Produit SaaS",
+            "idea_type": "produit_saas",
+            "main_function": "preparer",
+            "score": 6.4,
+            "scores": {
+                "brut": 61.4,
+                "typo": 63.5,
+                "priorite": 63.5
+            },
+            "score_details": {
+                "alignement_strategique": 7,
+                "potentiel_commercial": 6,
+                "desirabilite_client": 6,
+                "differenciation": 5,
+                "faisabilite": 7,
+                "recurrence_produit": 7,
+                "valeur_preuve": 5,
+                "utilite_interne": 3,
+                "apprentissage_strategique": 4
+            },
+            "bonuses_applied": {
+                "bonus_offre_existante": 8
+            },
+            "maluses_applied": {
+                "malus_banalite": -3,
+                "malus_acheteur_flou": -5
+            },
+            "verdict": "L'alignement stratégique et la faisabilité technique sont solides, ce qui confirme que DAJM a les capacités pour construire ce produit, mais la différenciation est le talon d'Achille majeur : le marché du coaching IA est déjà encombré et le score de 5\/10 reflète une proposition de valeur qui ne se distingue pas assez clairement de ce qui existe. La récurrence produit et l'alignement avec la mission Make IT Human tirent le score vers le haut, mais la faible valeur de preuve et l'utilité interne quasi nulle signalent un produit qui reste encore trop générique pour convaincre un client exigeant ou justifier un investissement prioritaire. À 63.5, c'est un projet viable mais pas urgent : avant d'avancer,",
+            "versions": [
+                {
+                    "version": 1,
+                    "created_at": "2026-05-19T07:42:50+02:00",
+                    "transcript": "Outil d’accompagnement dans la transition professionnel. Un coach de vie permettant de gerer ses emotion, augmenter son intelligence emotionnelle pour preparer au nouveau travail.",
+                    "title": "Coach IA transition professionnelle",
+                    "summary": "Outil d'accompagnement émotionnel et cognitif pour salariés en transition de carrière. Combine gestion des émotions et intelligence émotionnelle via IA conversationnelle pour préparer psychologiquement au nouveau rôle. Cible DRH\/OPCO via postes en tension et mobilité interne.",
+                    "score": 6.4
+                }
+            ]
         }
     ]
 }
