@@ -685,6 +685,32 @@
                     "score": 7.3
                 }
             ]
+        },
+        {
+            "id": "d758efd1-beb8-4213-bb7d-0ea3dd6cb9fd",
+            "created_at": "2026-05-19T07:45:09+02:00",
+            "status": "new",
+            "urgent": false,
+            "content_type": "tache",
+            "category": "Tâche",
+            "idea_type": "tache",
+            "main_function": "",
+            "score": null,
+            "scores": null,
+            "score_details": null,
+            "bonuses_applied": [],
+            "maluses_applied": [],
+            "verdict": "",
+            "versions": [
+                {
+                    "version": 1,
+                    "created_at": "2026-05-19T07:45:09+02:00",
+                    "transcript": "Urgent, il faut absolument faire que quand on saisit à l'écrit une nouvelle idée, une nouvelle tâche, une nouvelle note ou qu'on challenge une idée, il faut que c'est le même principe de mise en exergue après analyse.",
+                    "title": "Harmoniser mise en exergue post-saisie idées\/tâches",
+                    "summary": "Standardiser le mécanisme d'analyse et de mise en évidence qui s'active après la saisie d'une nouvelle idée, tâche, note ou challenge. Appliquer le même principe de traitement visuel\/algorithmique pour tous ces cas d'usage.",
+                    "score": null
+                }
+            ]
         }
     ]
 }
