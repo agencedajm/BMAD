@@ -639,34 +639,34 @@
             "status": "new",
             "urgent": false,
             "content_type": "idee",
-            "category": "Produit SaaS",
-            "idea_type": "produit_saas",
-            "main_function": "preparer",
-            "score": 6.4,
+            "category": "Vitrine",
+            "idea_type": "vitrine",
+            "main_function": "prouver",
+            "score": 7.3,
             "scores": {
-                "brut": 61.4,
-                "typo": 63.5,
-                "priorite": 63.5
+                "brut": 62.9,
+                "typo": 73,
+                "priorite": 80
             },
             "score_details": {
-                "alignement_strategique": 7,
-                "potentiel_commercial": 6,
+                "alignement_strategique": 8,
+                "potentiel_commercial": 5,
                 "desirabilite_client": 6,
-                "differenciation": 5,
+                "differenciation": 7,
                 "faisabilite": 7,
-                "recurrence_produit": 7,
-                "valeur_preuve": 5,
-                "utilite_interne": 3,
-                "apprentissage_strategique": 4
+                "recurrence_produit": 3,
+                "valeur_preuve": 8,
+                "utilite_interne": 4,
+                "apprentissage_strategique": 6
             },
             "bonuses_applied": {
-                "bonus_offre_existante": 8
+                "bonus_offre_existante": 8,
+                "bonus_contenu_communicable": 4
             },
             "maluses_applied": {
-                "malus_banalite": -3,
                 "malus_acheteur_flou": -5
             },
-            "verdict": "L'alignement stratégique et la faisabilité technique sont solides, ce qui confirme que DAJM a les capacités pour construire ce produit, mais la différenciation est le talon d'Achille majeur : le marché du coaching IA est déjà encombré et le score de 5\/10 reflète une proposition de valeur qui ne se distingue pas assez clairement de ce qui existe. La récurrence produit et l'alignement avec la mission Make IT Human tirent le score vers le haut, mais la faible valeur de preuve et l'utilité interne quasi nulle signalent un produit qui reste encore trop générique pour convaincre un client exigeant ou justifier un investissement prioritaire. À 63.5, c'est un projet viable mais pas urgent : avant d'avancer,",
+            "verdict": "L'alignement stratégique et la valeur de preuve sont les vrais moteurs de ce score : cet outil cristallise parfaitement la promesse Make IT Human en donnant corps à l'accompagnement humain augmenté sur un moment de vie fort et universel. Ce qui plombe le score, c'est l'absence quasi-totale de récurrence produit et un potentiel commercial limité, logique pour une vitrine gratuite sur le lab Diam's mais qui en fait davantage un investissement de notoriété qu'un levier de revenus directs. Pour DAJM, la priorité est claire : ce projet vaut surtout comme démonstration de posture, un signal fort envoyé au marché que l'agence pense à la radio et à ses auditeurs au-delà des campagnes, à condition que",
             "versions": [
                 {
                     "version": 1,
@@ -675,6 +675,14 @@
                     "title": "Coach IA transition professionnelle",
                     "summary": "Outil d'accompagnement émotionnel et cognitif pour salariés en transition de carrière. Combine gestion des émotions et intelligence émotionnelle via IA conversationnelle pour préparer psychologiquement au nouveau rôle. Cible DRH\/OPCO via postes en tension et mobilité interne.",
                     "score": 6.4
+                },
+                {
+                    "version": 2,
+                    "created_at": "2026-05-19T07:43:54+02:00",
+                    "transcript": "Outils gratuits qui seront mis à disposition sur le lab Diam's qui n'est pas vu comme produit avant. Il s'agit de montrer que sur chaque étape de la vie professionnelle, on accompagne, on pense en fait à la radio.",
+                    "title": "Coach transition professionnelle IA",
+                    "summary": "Outil d'accompagnement émotionnel et développement intelligence émotionnelle pour salariés en transition professionnelle. Gratuit sur Lab DIAMS pour montrer l'accompagnement DAJM à chaque étape de la vie professionnelle, renforçant la signature 'Make IT Human'.",
+                    "score": 7.3
                 }
             ]
         }
