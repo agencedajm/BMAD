@@ -826,6 +826,32 @@
                     "score": 5.6
                 }
             ]
+        },
+        {
+            "id": "c4353255-652a-45fc-b16c-330e96d74d6f",
+            "created_at": "2026-05-19T18:36:51+02:00",
+            "status": "new",
+            "urgent": false,
+            "content_type": "tache",
+            "category": "Tâche",
+            "idea_type": "tache",
+            "main_function": "",
+            "score": null,
+            "scores": null,
+            "score_details": null,
+            "bonuses_applied": [],
+            "maluses_applied": [],
+            "verdict": "",
+            "versions": [
+                {
+                    "version": 1,
+                    "created_at": "2026-05-19T18:36:51+02:00",
+                    "transcript": "Faire sue je puisse modifier le type de note « idee » mote ou tache",
+                    "title": "Permettre modification type note idée\/mote\/tâche",
+                    "summary": "Ajouter une fonctionnalité permettant de changer le type d'une note après sa création (entre idée, mote et tâche). Modification du modèle de données et de l'interface utilisateur requise.",
+                    "score": null
+                }
+            ]
         }
     ]
 }
