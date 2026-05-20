@@ -426,23 +426,9 @@
             "category": "Outillage interne",
             "idea_type": "outil_interne",
             "main_function": "structurer",
-            "score": 6.6,
-            "scores": {
-                "brut": 32.9,
-                "typo": 66,
-                "priorite": 59
-            },
-            "score_details": {
-                "alignement_strategique": 5,
-                "potentiel_commercial": 2,
-                "desirabilite_client": 1,
-                "differenciation": 3,
-                "faisabilite": 9,
-                "recurrence_produit": 1,
-                "valeur_preuve": 2,
-                "utilite_interne": 7,
-                "apprentissage_strategique": 2
-            },
+            "score": null,
+            "scores": null,
+            "score_details": null,
             "bonuses_applied": {
                 "bonus_production_interne": 6
             },
@@ -460,7 +446,8 @@
                     "summary": "Amélioration UX d'Idea Catcher : quand une nouvelle idée est ajoutée, l'outil la centre visuellement et la met en exergue pour clarifier sa position dans la liste. Fonction : structurer le flux de travail créatif interne et réduire la charge cognitive lors de l'ajout.",
                     "score": 6.6
                 }
-            ]
+            ],
+            "content_type": "tache"
         },
         {
             "id": "f870277a-05e8-4a54-8211-7ea6e24f3fbc",
