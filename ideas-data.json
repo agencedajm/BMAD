@@ -832,7 +832,7 @@
         {
             "id": "c4353255-652a-45fc-b16c-330e96d74d6f",
             "created_at": "2026-05-19T18:36:51+02:00",
-            "status": "new",
+            "status": "done",
             "urgent": false,
             "content_type": "tache",
             "category": "Tâche",
