@@ -880,6 +880,52 @@
                     "score": null
                 }
             ]
+        },
+        {
+            "id": "f702b541-a61e-413c-967c-4212fa52d19b",
+            "created_at": "2026-05-20T10:42:49+02:00",
+            "status": "new",
+            "urgent": false,
+            "content_type": "idee",
+            "category": "Produit SaaS",
+            "idea_type": "experimentation",
+            "main_function": "prouver",
+            "score": 7.5,
+            "scores": {
+                "brut": 70,
+                "typo": 74.5,
+                "priorite": 86.5
+            },
+            "score_details": {
+                "alignement_strategique": 8,
+                "potentiel_commercial": 7,
+                "desirabilite_client": 7,
+                "differenciation": 6,
+                "faisabilite": 8,
+                "recurrence_produit": 5,
+                "valeur_preuve": 8,
+                "utilite_interne": 4,
+                "apprentissage_strategique": 7
+            },
+            "bonuses_applied": {
+                "bonus_offre_existante": 8,
+                "bonus_rdv_commercial": 5,
+                "bonus_contenu_communicable": 4
+            },
+            "maluses_applied": {
+                "malus_acheteur_flou": -5
+            },
+            "verdict": "L'alignement stratégique et la valeur de preuve sont les moteurs réels de ce score : l'outil fait exactement ce que DAJM doit démontrer savoir faire, à savoir transformer une lecture RH en communication désirable, et il le fait de façon concrète et tangible pour le prospect. Ce qui plombe le score, c'est l'absence de récurrence et une utilité interne quasi nulle, ce qui en fait un outil de vitrine plutôt qu'un actif durable, avec le risque réel de rester un démonstrateur orphelin si la porte d'entrée commerciale n'est pas clairement définie dès le départ. La question non tranchée entre outil Lab et porte d'entrée commerciale n'est pas anodine : tant qu'elle reste ouverte, l",
+            "versions": [
+                {
+                    "version": 1,
+                    "created_at": "2026-05-20T10:42:49+02:00",
+                    "transcript": "IDÉE 003  Générateur de pistes marque employeur\r\n\r\n\r\nDescription\r\nUne entreprise décrit qui elle est (secteur, taille, métiers, enjeux RH, valeurs). L'outil génère des pistes de communication marque employeur + une lecture des conséquences possibles (ce que ça implique de dire ou de ne pas dire).\r\nLien stratégique\r\nOffre 1 (désirabilité des métiers \/ attractivité)\r\nPorte d'entrée 1 (mini-diagnostic lisibilité \/ désirabilité)\r\nFormat envisagé\r\nFormulaire structuré (10-15 questions max)\r\nRestitution en PDF ou page HTML légère\r\nNiveau de maturité : basse (démonstrateur)\r\nQuestions à valider\r\n☐  Outil externe (Lab) ou porte d'entrée commerciale ?\r\n☐  Quel niveau d'information donner sans \"trop dévoiler la cuisine\" ?\r\n☐  Version manuelle (fiche) vs version IA interactive ?",
+                    "title": "Générateur de pistes marque employeur",
+                    "summary": "Outil IA qui transforme l'auto-description d'une entreprise (secteur, taille, métiers, enjeux RH, valeurs) en pistes de communication marque employeur stratégiques, avec analyse des implications. Démonstrateur léger adossé à l'Offre 1 (attractivité) pour valider le modèle et ouvrir des missions de clarification marque employeur.",
+                    "score": 7.5
+                }
+            ]
         }
     ]
 }
