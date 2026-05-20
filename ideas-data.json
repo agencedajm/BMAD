@@ -946,6 +946,49 @@
                     "score": 6.2
                 }
             ]
+        },
+        {
+            "id": "b15f4390-814c-4655-920a-b5dab943fc40",
+            "created_at": "2026-05-20T17:49:11+02:00",
+            "status": "new",
+            "urgent": false,
+            "content_type": "idee",
+            "category": "Outil_interne",
+            "idea_type": "outil_interne",
+            "main_function": "structurer",
+            "score": 7.6,
+            "scores": {
+                "brut": 62.9,
+                "typo": 75.5,
+                "priorite": 89.5
+            },
+            "score_details": {
+                "alignement_strategique": 8,
+                "potentiel_commercial": 6,
+                "desirabilite_client": 6,
+                "differenciation": 7,
+                "faisabilite": 7,
+                "recurrence_produit": 3,
+                "valeur_preuve": 7,
+                "utilite_interne": 8,
+                "apprentissage_strategique": 6
+            },
+            "bonuses_applied": {
+                "bonus_offre_existante": 8,
+                "bonus_production_interne": 6
+            },
+            "maluses_applied": [],
+            "verdict": "L'alignement stratégique et l'utilité interne sont les moteurs de ce score élevé : l'idée répond à un vrai besoin de structuration dans le processus d'innovation de DAJM, et ça se voit. Ce qui plombe le score brut, c'est l'absence quasi-totale de logique de récurrence produit et un potentiel commercial encore flou — on est sur un outil interne utile, pas sur une offre monétisable demain. L'idée mérite d'être développée comme socle méthodologique DAJM, mais elle restera sous-exploitée tant qu'on n'aura pas clarifié comment elle peut aussi créer de la valeur client externe, pas seulement interne.",
+            "versions": [
+                {
+                    "version": 1,
+                    "created_at": "2026-05-20T17:49:11+02:00",
+                    "transcript": "Retravaille pour le l'idée IDAS Catcher ou plutôt catch innove, le scoring, c'est-à-dire qu'en fin de compte si on est vraiment sur un outil de scoring, enfin de d'innovation, il faut que cet outil permette de d'identifier à quel point l'idée est innovante pour la personne, enfin pour le, oui si pour la personne, pour l'entreprise et pour et par rapport en fait à à ces usages et les clients, c'est-à-dire qu'on est vraiment sur du design avec la capacité de déterminer si une idée est porteuse pour l'entreprise, pour les clients potentiels et que ce soit vraiment la motivation.",
+                    "title": "Scoring d'innovation pour Idea Catcher",
+                    "summary": "Évolution d'Idea Catcher pour évaluer le potentiel innovant des idées selon trois axes : pertinence pour l'entreprise, désirabilité client et alignement usage\/besoin. Objectif : transformer un outil de collecte en outil de scoring stratégique permettant de qualifier rapidement les idées les plus porteuses.",
+                    "score": 7.6
+                }
+            ]
         }
     ]
 }
