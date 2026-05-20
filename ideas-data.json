@@ -422,7 +422,7 @@
         {
             "id": "f0638a93-0ee5-4ba1-a258-1b1bdb866ab0",
             "created_at": "2026-05-15T18:18:15+02:00",
-            "status": "wip",
+            "status": "done",
             "category": "Outillage interne",
             "idea_type": "outil_interne",
             "main_function": "structurer",
@@ -447,7 +447,8 @@
                     "score": 6.6
                 }
             ],
-            "content_type": "tache"
+            "content_type": "tache",
+            "urgent": false
         },
         {
             "id": "f870277a-05e8-4a54-8211-7ea6e24f3fbc",
