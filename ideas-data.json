@@ -546,7 +546,8 @@
                     "summary": "Créer un référentiel propriétaire évaluant si un dispositif digital reste humain (clarté, autonomie, accessibilité, compétence, sobriété, confiance, responsabilité). Outil de diagnostic et de différenciation commerciale pour positionner DAJM comme expert en transformation humaine, pas automatisation aveugle.",
                     "score": 7.7
                 }
-            ]
+            ],
+            "urgent": true
         },
         {
             "id": "6dbe7c42-3fd5-4368-96be-6dafbb0df850",
