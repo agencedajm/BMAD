@@ -509,7 +509,7 @@
         {
             "id": "b6799f23-7b7e-40dc-84a4-db302bfc3ace",
             "created_at": "2026-05-18T08:59:53+02:00",
-            "status": "new",
+            "status": "wip",
             "category": "Outillage IA",
             "idea_type": "vitrine",
             "main_function": "prouver",
