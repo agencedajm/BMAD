@@ -975,6 +975,32 @@
                     "score": 7.6
                 }
             ]
+        },
+        {
+            "id": "4af5d336-b073-44be-a9ef-d26dd358b351",
+            "created_at": "2026-05-21T11:34:12+02:00",
+            "status": "new",
+            "urgent": false,
+            "content_type": "tache",
+            "category": "Tâche",
+            "idea_type": "tache",
+            "main_function": "",
+            "score": null,
+            "scores": null,
+            "score_details": null,
+            "bonuses_applied": [],
+            "maluses_applied": [],
+            "verdict": "",
+            "versions": [
+                {
+                    "version": 1,
+                    "created_at": "2026-05-21T11:34:12+02:00",
+                    "transcript": "Prévenir Stéphanie de l'OPCO de I qu'on a un outil qui permet de faire de la du rapprochement entre carrière et des métiers potentiels, c'est-à-dire de l'évolution potentielle quoi.",
+                    "title": "Contacter Stéphanie OPCO présenter outil carrière",
+                    "summary": "Prendre contact avec Stéphanie de l'OPCO pour lui présenter l'outil de rapprochement entre carrière et métiers potentiels, permettant de visualiser les évolutions professionnelles possibles.",
+                    "score": null
+                }
+            ]
         }
     ]
 }
