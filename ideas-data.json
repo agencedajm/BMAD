@@ -1001,6 +1001,49 @@
                     "score": null
                 }
             ]
+        },
+        {
+            "id": "84fdec32-2e03-4f11-9ead-41fb1a34a5f1",
+            "created_at": "2026-05-21T11:35:26+02:00",
+            "status": "new",
+            "urgent": false,
+            "content_type": "idee",
+            "category": "Produit SaaS",
+            "idea_type": "produit_saas",
+            "main_function": "apprendre",
+            "score": 7.1,
+            "scores": {
+                "brut": 70,
+                "typo": 71,
+                "priorite": 84
+            },
+            "score_details": {
+                "alignement_strategique": 8,
+                "potentiel_commercial": 7,
+                "desirabilite_client": 8,
+                "differenciation": 6,
+                "faisabilite": 7,
+                "recurrence_produit": 7,
+                "valeur_preuve": 6,
+                "utilite_interne": 4,
+                "apprentissage_strategique": 5
+            },
+            "bonuses_applied": {
+                "bonus_offre_existante": 8,
+                "bonus_rdv_commercial": 5
+            },
+            "maluses_applied": [],
+            "verdict": "La désirabilité client est le facteur le plus déterminant ici : le besoin de se projeter vers de nouveaux métiers à partir de ses compétences existantes est réel, massif et mal adressé par les outils RH classiques, ce qui explique que ce critère tire clairement le score vers le haut avec l'alignement stratégique. Ce qui plombe l'ensemble, c'est la différenciation insuffisante face à des acteurs déjà positionnés sur ce terrain comme LinkedIn Skills ou des outils d'orientation IA, combinée à une valeur de preuve encore faible et une utilité interne quasi nulle pour DAJM, ce qui interroge sur la légitimité de l'agence à porter ce produit. L'alignement DAJM reste défendable si on positionne cet",
+            "versions": [
+                {
+                    "version": 1,
+                    "created_at": "2026-05-21T11:35:26+02:00",
+                    "transcript": "Outils qui permettent de rapprocher, de mettre en rapprochement les les acquis, c'est-à-dire qu'une personne est dans un travail, elle a des compétences, des soft skills, des hard skills et c'est de lui proposer des métiers potentiels pour pour elle.",
+                    "title": "Rapprocheur de compétences vers métiers",
+                    "summary": "Outil qui analyse les compétences actuelles (soft et hard skills) d'une personne et propose des métiers potentiels alignés. Répond aux besoins de clarté et d'orientation professionnelle en contexte de tension métier et de reconversion.",
+                    "score": 7.1
+                }
+            ]
         }
     ]
 }
