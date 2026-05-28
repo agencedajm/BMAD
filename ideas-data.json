@@ -1056,37 +1056,39 @@
             "category": "Produit SaaS",
             "idea_type": "produit_saas",
             "main_function": "vendre",
-            "score": 5.5,
+            "score": 6.2,
             "scores": {
-                "brut": 50,
-                "typo": 54.5,
-                "priorite": 41.5
+                "brut": 57.1,
+                "typo": 61.5,
+                "priorite": 53.5
             },
             "score_details": {
                 "alignement_strategique": 4,
-                "potentiel_commercial": 5,
-                "desirabilite_client": 6,
-                "differenciation": 3,
+                "potentiel_commercial": 6,
+                "desirabilite_client": 7,
+                "differenciation": 4,
                 "faisabilite": 6,
-                "recurrence_produit": 7,
-                "valeur_preuve": 4,
+                "recurrence_produit": 8,
+                "valeur_preuve": 5,
                 "utilite_interne": 2,
-                "apprentissage_strategique": 2
+                "apprentissage_strategique": 3
             },
-            "bonuses_applied": [],
+            "bonuses_applied": {
+                "bonus_rdv_commercial": 5
+            },
             "maluses_applied": {
                 "malus_banalite": -8,
                 "malus_dispersion": -5
             },
-            "verdict": "La récurrence d'abonnement est le vrai atout de ce concept, et c'est ce qui maintient le score à flot. Mais la différenciation est franchement faible : le marché des no-code\/low-code builders est saturé de Notion, Bubble, Glide et consorts, et Bmad n'apporte rien d'assez distinctif pour justifier un positionnement crédible face à ces acteurs. Ce qui plombe réellement le score, c'est l'utilité interne quasi nulle et l'apprentissage stratégique inexistant pour DAJM, ce qui signifie que l'agence investirait des ressources sur un produit qui ne renforce pas son cœur de métier communication et ne génère pas de capital-marque différenciant pour elle-même.",
+            "verdict": "La récurrence produit (8\/10) et la désirabilité client (7\/10) sont réels — un outil d'abonnement no-code qui autonomise les clients a un modèle économique défendable. Mais c'est précisément là que le bât blesse pour DAJM : si les clients construisent eux-mêmes leurs solutions, tu sappes ta propre proposition de valeur en tant qu'agence, et l'alignement stratégique catastrophique (4\/10) reflète cette tension fondamentale. La faiblesse de l'utilité interne (2\/10) et de l'apprentissage stratégique (3\/10) confirme que ce produit ne renforce pas le cœur de métier de DAJM — c'est un pari commercial périphérique qui demande des ressources",
             "versions": [
                 {
                     "version": 1,
                     "created_at": "2026-05-28T09:21:05+02:00",
                     "transcript": "Outils Bmad permettant aux clients de construire leur outil eux memes et donc de developper des solutions en internes. Tres visuel, très checklist pour ne pas se perdre et s’assurer de proposer un dev de solution viable. Il s’agit d’une solution par abonnement.",
-                    "title": "Bmad : Builder de solutions internes",
-                    "summary": "Plateforme permettant aux clients de construire leurs propres outils sans codage, avec interface visuelle et checklist. Solution par abonnement visant l'autonomisation client et la viabilité des développements internes.",
-                    "score": 5.5
+                    "title": "Builder no-code pour solutions clients",
+                    "summary": "Plate-forme permettant aux clients de construire leurs propres outils sans développement, avec interface visuelle et checklist de viabilité. Modèle d'abonnement récurrent. Répond au besoin de démocratisation et d'autonomisation client.",
+                    "score": 6.2
                 }
             ]
         }
