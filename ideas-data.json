@@ -1051,7 +1051,7 @@
             "id": "b0fcc16e-7465-4926-85d8-43e86e5e3d18",
             "created_at": "2026-05-28T09:21:05+02:00",
             "status": "new",
-            "urgent": true,
+            "urgent": false,
             "content_type": "idee",
             "category": "Produit SaaS",
             "idea_type": "produit_saas",
