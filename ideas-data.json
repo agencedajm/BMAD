@@ -1096,7 +1096,7 @@
             "id": "c8303bec-2e48-42cb-a11c-2182906834cf",
             "created_at": "2026-05-30T10:58:57+02:00",
             "status": "wip",
-            "urgent": false,
+            "urgent": true,
             "content_type": "idee",
             "category": "Produit SaaS",
             "idea_type": "produit_saas",
