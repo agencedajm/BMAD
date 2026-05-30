@@ -1091,6 +1091,50 @@
                     "score": 6.2
                 }
             ]
+        },
+        {
+            "id": "c8303bec-2e48-42cb-a11c-2182906834cf",
+            "created_at": "2026-05-30T10:58:57+02:00",
+            "status": "new",
+            "urgent": false,
+            "content_type": "idee",
+            "category": "Produit SaaS",
+            "idea_type": "produit_saas",
+            "main_function": "vendre",
+            "score": 8,
+            "scores": {
+                "brut": 81.4,
+                "typo": 79.5,
+                "priorite": 100
+            },
+            "score_details": {
+                "alignement_strategique": 9,
+                "potentiel_commercial": 8,
+                "desirabilite_client": 8,
+                "differenciation": 8,
+                "faisabilite": 7,
+                "recurrence_produit": 8,
+                "valeur_preuve": 9,
+                "utilite_interne": 4,
+                "apprentissage_strategique": 6
+            },
+            "bonuses_applied": {
+                "bonus_offre_existante": 8,
+                "bonus_appel_offres": 8,
+                "bonus_rdv_commercial": 5
+            },
+            "maluses_applied": [],
+            "verdict": "L'alignement stratégique à 9 est le signal le plus fort ici : iCareer s'inscrit directement dans la mission Make IT Human, et la valeur de preuve à 9 confirme que le produit peut générer des résultats tangibles et documentables, ce qui est exactement ce dont DAJM a besoin pour crédibiliser son positionnement IA. Ce qui tire le score vers le haut, c'est la combinaison d'un marché réel — reconversion, orientation, OPCO — avec une proposition différenciante qui ne rejoue pas le énième générateur de CV. Ce qui le plombe, c'est la faisabilité à 7 qui signale une complexité produit non triviale, et surtout l'utilité interne à 4 qui révèle que DAJM ne peut",
+            "versions": [
+                {
+                    "version": 1,
+                    "created_at": "2026-05-30T10:58:57+02:00",
+                    "transcript": "iCareer est un moteur IA de révélation professionnelle.\r\n\r\nIl aide les personnes en reconversion, les profils expérimentés et les parcours hybrides à comprendre ce qu’ils valent réellement sur le marché.\r\n\r\nÀ partir d’un CV, d’un récit de parcours et d’objectifs professionnels, iCareer identifie les compétences réelles, les preuves associées, les compétences transférables et les métiers compatibles.\r\n\r\nL’enjeu n’est pas de générer un CV de plus.\r\n\r\nL’enjeu est de transformer une expérience parfois illisible en trajectoires claires, réalistes et activables.\r\n\r\nPour les organismes de formation, OPCO et acteurs de l’emploi, iCareer devient un outil de diagnostic amont, d’aide à l’orientation et de sécurisation des parcours.\r\n\r\nEn clair\r\n\r\niCareer ne demande pas seulement « quel métier cherchez-vous ».\r\n\r\nIl révèle ce que votre expérience peut encore devenir.",
+                    "title": "iCareer : moteur IA de révélation professionnelle",
+                    "summary": "Plateforme IA transformant CV et parcours en trajectoires professionnelles claires et activables. Cible reconversion, profils expérimentés, parcours hybrides. Positionne DAJM comme expert en lisibilité de carrière auprès organismes formation, OPCO et acteurs emploi.",
+                    "score": 8
+                }
+            ]
         }
     ]
 }
