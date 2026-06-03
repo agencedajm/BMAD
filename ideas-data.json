@@ -1139,7 +1139,7 @@
         {
             "id": "44a8534b-1756-4cfd-ae33-9edde71de369",
             "created_at": "2026-06-03T15:12:08+02:00",
-            "status": "new",
+            "status": "wip",
             "urgent": false,
             "content_type": "idee",
             "category": "Outillage interne",
