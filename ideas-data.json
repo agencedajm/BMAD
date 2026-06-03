@@ -1135,6 +1135,49 @@
                     "score": 8
                 }
             ]
+        },
+        {
+            "id": "44a8534b-1756-4cfd-ae33-9edde71de369",
+            "created_at": "2026-06-03T15:12:08+02:00",
+            "status": "new",
+            "urgent": false,
+            "content_type": "idee",
+            "category": "Outillage interne",
+            "idea_type": "outil_interne",
+            "main_function": "structurer",
+            "score": 7.7,
+            "scores": {
+                "brut": 57.1,
+                "typo": 77,
+                "priorite": 91
+            },
+            "score_details": {
+                "alignement_strategique": 8,
+                "potentiel_commercial": 5,
+                "desirabilite_client": 4,
+                "differenciation": 7,
+                "faisabilite": 8,
+                "recurrence_produit": 2,
+                "valeur_preuve": 6,
+                "utilite_interne": 8,
+                "apprentissage_strategique": 4
+            },
+            "bonuses_applied": {
+                "bonus_offre_existante": 8,
+                "bonus_production_interne": 6
+            },
+            "maluses_applied": [],
+            "verdict": "L'utilité interne est le moteur principal de ce score élevé : cet outil structure une pratique centrale chez DAJM et renforce directement la posture Make IT Human en ancrant la recherche utilisateur dans chaque projet. Ce qui tire le score vers le haut, c'est la combinaison faisabilité solide, alignement stratégique fort et valeur de preuve réelle — l'outil peut devenir un actif méthodologique distinctif. Ce qui le plombe sévèrement, c'est l'absence quasi totale de récurrence produit et un potentiel commercial limité : c'est un investissement interne sans monétisation directe évidente, ce qui en fait un levier d'efficacité et de positionnement plutôt qu'un driver de croissance.",
+            "versions": [
+                {
+                    "version": 1,
+                    "created_at": "2026-06-03T15:12:08+02:00",
+                    "transcript": "Outil interne à DAJM qui permet de faire de la recherche utilisateur autour d'un contexte, cible, projet. Permet de ressortir des points de friction, empathy map, job to be done et design spring sur lequel travailler et explorer la divergence et convergence",
+                    "title": "Outil de recherche utilisateur DAJM",
+                    "summary": "Outil interne permettant de structurer et automatiser la recherche utilisateur (friction, empathy map, JTBD, design sprint) autour d'un contexte projet. Renforce la production méthodologique DAJM et crédibilise l'approche humaine.",
+                    "score": 7.7
+                }
+            ]
         }
     ]
 }
