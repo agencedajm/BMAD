@@ -1224,6 +1224,50 @@
                     "score": 6.9
                 }
             ]
+        },
+        {
+            "id": "bf7c0099-b65e-4bd1-a648-3aac74712634",
+            "created_at": "2026-06-05T13:24:40+02:00",
+            "status": "new",
+            "urgent": false,
+            "content_type": "idee",
+            "category": "Produit SaaS",
+            "idea_type": "produit_saas",
+            "main_function": "structurer",
+            "score": 6.5,
+            "scores": {
+                "brut": 62.9,
+                "typo": 65,
+                "priorite": 70
+            },
+            "score_details": {
+                "alignement_strategique": 7,
+                "potentiel_commercial": 5,
+                "desirabilite_client": 7,
+                "differenciation": 5,
+                "faisabilite": 8,
+                "recurrence_produit": 6,
+                "valeur_preuve": 6,
+                "utilite_interne": 4,
+                "apprentissage_strategique": 4
+            },
+            "bonuses_applied": {
+                "bonus_offre_existante": 8
+            },
+            "maluses_applied": {
+                "malus_banalite": -3
+            },
+            "verdict": "La faisabilité technique est le principal atout de cette idée — un questionnaire structuré reste simple à construire et déployer. Mais c'est précisément là que le bât blesse : le marché est saturé d'outils similaires (tests de personnalité, bilans de compétences en ligne, quiz d'orientation) et la différenciation est quasi inexistante à ce stade, ce qui plombe le potentiel commercial et la récurrence. Pour DAJM, dont le positionnement est \"Make IT Human\", l'angle identitaire peut résonner, mais l'idée reste trop générique et trop éloignée du cœur métier communication pour justifier un investissement prioritaire sans un angle distinctif fort.",
+            "versions": [
+                {
+                    "version": 1,
+                    "created_at": "2026-06-05T13:24:40+02:00",
+                    "transcript": "L'outil pour trouver ces passions, tu vois un système de questionnement qui te pousse en fait à réfléchir à aller loin dans la, pousser dans la réflexion pour être sûr de trouver ce qui pourrait D'ailleurs ça pourrait fonctionner même pour les personnes qui sont dans le qui cherchent un emploi, un truc comme ça, ça pourrait être intéressant de de d'avoir un questionnaire pour définir qui on est, qu'est-ce qu'on aime, comment, enfin voilà.",
+                    "title": "Questionnaire passion & identité professionnelle",
+                    "summary": "Outil interactif de questionnement guidé pour aider les chercheurs d'emploi et les demandeurs de clarté à identifier leurs passions, valeurs et compétences. Fonctionne comme structurant identitaire et peut enrichir les offres Clarifier la position et Donner vie aux messages.",
+                    "score": 6.5
+                }
+            ]
         }
     ]
 }
