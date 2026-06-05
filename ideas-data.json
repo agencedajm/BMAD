@@ -1268,6 +1268,51 @@
                     "score": 6.5
                 }
             ]
+        },
+        {
+            "id": "faee34b2-5819-40eb-8ccd-e1840168d890",
+            "created_at": "2026-06-05T13:56:11+02:00",
+            "status": "new",
+            "urgent": false,
+            "content_type": "idee",
+            "category": "Outillage IA",
+            "idea_type": "experimentation",
+            "main_function": "apprendre",
+            "score": 4.3,
+            "scores": {
+                "brut": 34.3,
+                "typo": 42.5,
+                "priorite": 7.5
+            },
+            "score_details": {
+                "alignement_strategique": 3,
+                "potentiel_commercial": 4,
+                "desirabilite_client": 2,
+                "differenciation": 4,
+                "faisabilite": 5,
+                "recurrence_produit": 3,
+                "valeur_preuve": 3,
+                "utilite_interne": 4,
+                "apprentissage_strategique": 5
+            },
+            "bonuses_applied": [],
+            "maluses_applied": {
+                "malus_dispersion": -12,
+                "malus_banalite": -8,
+                "malus_acheteur_flou": -10,
+                "malus_complexite": -5
+            },
+            "verdict": "La désirabilité client est le talon d'Achille de ce projet : l'audience cible reste floue et le besoin réel non validé, ce qui explique en grande partie le score limité à 7.5. Ce qui tire vers le haut, c'est le potentiel d'apprentissage stratégique élevé et une différenciation réelle sur le concept de veille opportuniste légale, combinés à une faisabilité technique accessible. En revanche, l'alignement avec le positionnement DAJM Make IT Human est quasi inexistant : cet outil ressemble davantage à un side project personnel qu'à un actif qui renforce notre expertise en communication ou crée de la valeur récurrente pour nos clients.",
+            "versions": [
+                {
+                    "version": 1,
+                    "created_at": "2026-06-05T13:56:11+02:00",
+                    "transcript": "Je veux creer un outil de recherche d’idée de business borderline. On recherche des idées des failles nous connues, qui profite des solutions mises en place mais toujours dans la legalité. Recherche dans redit, recherche dans des forum syr internet mais aussi des proposition de claude. Je veux que sois scrapé l’actu pour reperer des failles des opportunités qui peuvent creer du business borderline mais toujours legale. Je veux developper des ideés rapidement et faire du business rapidement. Je veux explorer toutes les possibilités actuelles (subventions, aides, annonces, propostions, partenariats,…). Ce peut etre extrement large, encheres, business a recupere, des lots, des idees memes fumeuses qui pourraient faire naitre du business.",
+                    "title": "Radar failles légales & opportunités business",
+                    "summary": "Outil d'agrégation et d'analyse temps-réel des failles réglementaires, opportunités de subventions et grey zones légales exploitables. Combine scraping actualité, forums Reddit, propositions Claude pour identifier rapidement des business models exploitant les vides légaux ou changements normatifs.",
+                    "score": 4.3
+                }
+            ]
         }
     ]
 }
