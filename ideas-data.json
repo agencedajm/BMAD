@@ -1178,6 +1178,52 @@
                     "score": 7.7
                 }
             ]
+        },
+        {
+            "id": "ed840f93-03b0-4a00-a7a5-ed329e13c1df",
+            "created_at": "2026-06-05T10:03:35+02:00",
+            "status": "new",
+            "urgent": false,
+            "content_type": "idee",
+            "category": "Outil_interne",
+            "idea_type": "outil_interne",
+            "main_function": "automatiser",
+            "score": 6.9,
+            "scores": {
+                "brut": 51.4,
+                "typo": 68.5,
+                "priorite": 70.5
+            },
+            "score_details": {
+                "alignement_strategique": 6,
+                "potentiel_commercial": 5,
+                "desirabilite_client": 6,
+                "differenciation": 5,
+                "faisabilite": 8,
+                "recurrence_produit": 1,
+                "valeur_preuve": 5,
+                "utilite_interne": 7,
+                "apprentissage_strategique": 4
+            },
+            "bonuses_applied": {
+                "bonus_production_interne": 6,
+                "bonus_contenu_communicable": 4
+            },
+            "maluses_applied": {
+                "malus_banalite": -3,
+                "malus_acheteur_flou": -5
+            },
+            "verdict": "La faisabilité technique élevée (8\/10) est ce qui donne de la crédibilité à ce projet et explique l'essentiel du score — sans elle, on serait sous les 60. Ce qui plombe l'évaluation, c'est l'absence quasi totale de récurrence produit (1\/10) et un potentiel commercial faible (5\/10) : cet outil reste un gain d'efficacité interne, pas un actif monétisable ou différenciant sur le marché. Pour DAJM, c'est un chantier d'optimisation opérationnelle légitime, mais il ne fait pas avancer l'agence sur sa promesse Make IT Human — construire en interne, oui, mais sans en faire une priorité stratégique.",
+            "versions": [
+                {
+                    "version": 1,
+                    "created_at": "2026-06-05T10:03:35+02:00",
+                    "transcript": "outil d'automatisation de remontée d'info sur des thèmes et preparation de posts linkedin en automatisation.",
+                    "title": "Automatisation remontée info & prep posts LinkedIn",
+                    "summary": "Outil d'automatisation capturant et synthétisant l'information sur des thèmes cibles pour générer automatiquement des posts LinkedIn. Cible les DRH\/Comms ayant besoin de maintenir une présence éditoriale sans charge mentale. Leverage IA + stratégie de contenu DAJM.",
+                    "score": 6.9
+                }
+            ]
         }
     ]
 }
