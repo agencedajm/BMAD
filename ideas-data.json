@@ -1390,27 +1390,13 @@
             "created_at": "2026-06-06T18:40:36+02:00",
             "status": "new",
             "urgent": false,
-            "content_type": "idee",
+            "content_type": "tache",
             "category": "Développement commercial",
             "idea_type": "vitrine",
             "main_function": "prouver",
-            "score": 6,
-            "scores": {
-                "brut": 51.4,
-                "typo": 60,
-                "priorite": 56
-            },
-            "score_details": {
-                "alignement_strategique": 5,
-                "potentiel_commercial": 4,
-                "desirabilite_client": 5,
-                "differenciation": 7,
-                "faisabilite": 6,
-                "recurrence_produit": 2,
-                "valeur_preuve": 7,
-                "utilite_interne": 2,
-                "apprentissage_strategique": 6
-            },
+            "score": null,
+            "scores": null,
+            "score_details": null,
             "bonuses_applied": {
                 "bonus_contenu_communicable": 4
             },
