@@ -1313,6 +1313,51 @@
                     "score": 4.3
                 }
             ]
+        },
+        {
+            "id": "86ff4cf3-5675-4ece-8e9a-0445eb51d4eb",
+            "created_at": "2026-06-06T11:05:18+02:00",
+            "status": "new",
+            "urgent": false,
+            "content_type": "idee",
+            "category": "Produit SaaS",
+            "idea_type": "produit_saas",
+            "main_function": "vendre",
+            "score": 5.9,
+            "scores": {
+                "brut": 55.7,
+                "typo": 59,
+                "priorite": 59
+            },
+            "score_details": {
+                "alignement_strategique": 7,
+                "potentiel_commercial": 5,
+                "desirabilite_client": 6,
+                "differenciation": 4,
+                "faisabilite": 6,
+                "recurrence_produit": 7,
+                "valeur_preuve": 4,
+                "utilite_interne": 2,
+                "apprentissage_strategique": 3
+            },
+            "bonuses_applied": {
+                "bonus_offre_existante": 8
+            },
+            "maluses_applied": {
+                "malus_banalite": -3,
+                "malus_acheteur_flou": -5
+            },
+            "verdict": "La différenciation est le talon d'Achille de ce concept : le positionnement \"recommandation de confiance\" existe déjà dans l'ADN de LinkedIn et de plateformes comme Cooptme ou Keycoopt, ce qui rend l'acquisition d'une masse critique d'utilisateurs extrêmement difficile sans un angle disruptif clairement articulé. Ce qui tire le score vers le haut, c'est la récurrence potentielle du modèle d'abonnement employeur et un alignement réel avec un besoin marché documenté — le recrutement par cooptation convertit mieux que les autres canaux. Ce qui le plombe sévèrement, c'est la faible valeur de preuve immédiate, l'utilité interne quasi nulle pour DAJM, et le fait que ce prod",
+            "versions": [
+                {
+                    "version": 1,
+                    "created_at": "2026-06-06T11:05:18+02:00",
+                    "transcript": "A la « gens de confiance » plateforme de parrainage de travailleur, d’employé de confiance avec des references solides parrainné par les employeurs. Abonnement pour avceder a des profils de qualité. A l’instar des personnes recommandé sur linkedin cet outils permet de mettre en avant d’anciens salairés partis. Les employés demande à leur ancien employeurs de les parrains pour acceder a de la visibilité sur la plateforme. Les employeurs ont acces en payant. Gratuit pour les employés. Cela permet de recruter plus facilement. En confiance.",
+                    "title": "Plateforme de parrainage employeur-employé",
+                    "summary": "Marketplace B2B de recommandations d'employés par leurs anciens employeurs. Les salariés demandent un parrainage pour gagner en visibilité auprès des recruteurs abonnés. Modèle : gratuit employés, premium employeurs. Positionne DAJM sur l'attractivité talent et la marque employeur via une solution de matching confiance-based.",
+                    "score": 5.9
+                }
+            ]
         }
     ]
 }
