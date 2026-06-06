@@ -1384,6 +1384,51 @@
                     "score": null
                 }
             ]
+        },
+        {
+            "id": "ed968eb6-ab24-42d8-84c4-7325b19b9bd7",
+            "created_at": "2026-06-06T18:40:36+02:00",
+            "status": "new",
+            "urgent": false,
+            "content_type": "idee",
+            "category": "Développement commercial",
+            "idea_type": "vitrine",
+            "main_function": "prouver",
+            "score": 6,
+            "scores": {
+                "brut": 51.4,
+                "typo": 60,
+                "priorite": 56
+            },
+            "score_details": {
+                "alignement_strategique": 5,
+                "potentiel_commercial": 4,
+                "desirabilite_client": 5,
+                "differenciation": 7,
+                "faisabilite": 6,
+                "recurrence_produit": 2,
+                "valeur_preuve": 7,
+                "utilite_interne": 2,
+                "apprentissage_strategique": 6
+            },
+            "bonuses_applied": {
+                "bonus_contenu_communicable": 4
+            },
+            "maluses_applied": {
+                "malus_acheteur_flou": -5,
+                "malus_banalite": -3
+            },
+            "verdict": "La différenciation et la valeur de preuve sont réelles : un site génératif SVG jour par jour sur l'actu, c'est un objet qui attire l'œil et démontre une capacité technique créative que peu d'agences peuvent revendiquer. Mais ce qui plombe le score, c'est l'absence quasi totale de récurrence produit et d'utilité interne — c'est un one-shot esthétique sans modèle économique visible, et ça ne génère ni lead qualifié ni revenus répétables. Pour DAJM, ça reste pertinent uniquement comme vitrine de positionnement \"Make IT Human\", à condition que le coût de développement reste contenu et qu'on l'assume clairement comme carte de visite technique plutôt que comme projet à rentabiliser.",
+            "versions": [
+                {
+                    "version": 1,
+                    "created_at": "2026-06-06T18:40:36+02:00",
+                    "transcript": "Tache : \r\nJe vousrais creer un site artistique qui sera une page unique qui reprend automatiquement un theme de l’actu par jour et le site generera un dessin vectoriel progressif a la maniere de la technique bic. Ce sera une image qui se creé tout au long de la journée et qui se dessinne en svg prograssibement a la maniere du bic. Plus on avance dans le temps plus l’image est riche. Est ce sue tu saurait faire ? Rt l’image s’efface en fin de journée.",
+                    "title": "Site artistique génératif quotidien sur l'actualité",
+                    "summary": "Créer une vitrine artistique qui génère automatiquement un dessin vectoriel SVG progressif chaque jour basé sur un thème d'actualité, simulant la technique du stylo bic. L'image s'enrichit au fil du jour et s'efface en fin de journée. Démonstrateur de créativité IA appliquée à l'art et à la narration d'actualité, aligné avec l'ADN DAJM de rendre visible et générer du désir.",
+                    "score": 6
+                }
+            ]
         }
     ]
 }
