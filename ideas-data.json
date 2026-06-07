@@ -1415,6 +1415,50 @@
                     "score": 6
                 }
             ]
+        },
+        {
+            "id": "6d6f6164-54a5-4d7b-a519-7ee85678529d",
+            "created_at": "2026-06-07T17:05:56+02:00",
+            "status": "new",
+            "urgent": false,
+            "content_type": "idee",
+            "category": "Autre",
+            "idea_type": "produit_saas",
+            "main_function": "apprendre",
+            "score": 5,
+            "scores": {
+                "brut": 44.3,
+                "typo": 50,
+                "priorite": 18
+            },
+            "score_details": {
+                "alignement_strategique": 3,
+                "potentiel_commercial": 4,
+                "desirabilite_client": 6,
+                "differenciation": 4,
+                "faisabilite": 4,
+                "recurrence_produit": 7,
+                "valeur_preuve": 3,
+                "utilite_interne": 2,
+                "apprentissage_strategique": 4
+            },
+            "bonuses_applied": [],
+            "maluses_applied": {
+                "malus_banalite": -8,
+                "malus_dispersion": -12,
+                "malus_complexite": -12
+            },
+            "verdict": "La désirabilité client et la récurrence d'usage sont réelles — les gens cherchent effectivement quoi faire et reviendraient sur ce type d'outil — mais c'est précisément le problème : Facebook Events, Eventbrite, Meetup et une dizaine de concurrents locaux font déjà ça, ce qui plombe la différenciation et rend le potentiel commercial très incertain sans angle distinctif fort. La faisabilité technique est fragile dès qu'on parle de scraping Facebook, qui bloque activement ce type d'accès et qui expose le projet à des risques juridiques et de maintenance permanente. Côté alignement DAJM, ce projet est quasi nul : c'est un produit grand public sans lien avec nos expertises en communication ou nos clients, et la valeur de preuve",
+            "versions": [
+                {
+                    "version": 1,
+                    "created_at": "2026-06-07T17:05:56+02:00",
+                    "transcript": "Application personnelle scrapant facebook, sites blogs etc pour voir les evenements et activité a faire payantes ou non. Vour s’il y a des api open sources egalement. Le but est d’avoir toujours des ideés de choses a faire. Du spectacle à un vide grenier en passant par une soiree intimiste d’un bar qui organise une soiree blind test. Du plus petit au plus gros. Avec filtre par prix, taille de l’event, type et lieu",
+                    "title": "Agrégateur d'événements locaux avec filtres intelligents",
+                    "summary": "Application de scraping multi-sources (Facebook, blogs, sites) centralisant les événements locaux payants\/gratuits avec filtres prix, taille, type, lieu. Résout le problème de fragmentation des sources et génère des idées d'activités. Potentiel vitrine DAJM sur l'agrégation d'information et l'UX de découverte.",
+                    "score": 5
+                }
+            ]
         }
     ]
 }
