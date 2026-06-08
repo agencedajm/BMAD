@@ -1459,6 +1459,32 @@
                     "score": 5
                 }
             ]
+        },
+        {
+            "id": "f0940a86-a1c7-47a4-b75e-e40f8b164762",
+            "created_at": "2026-06-08T19:51:53+02:00",
+            "status": "new",
+            "urgent": false,
+            "content_type": "tache",
+            "category": "Tâche",
+            "idea_type": "tache",
+            "main_function": "",
+            "score": null,
+            "scores": null,
+            "score_details": null,
+            "bonuses_applied": [],
+            "maluses_applied": [],
+            "verdict": "",
+            "versions": [
+                {
+                    "version": 1,
+                    "created_at": "2026-06-08T19:51:53+02:00",
+                    "transcript": "Ajouter une tâche, prévoir de nettoyer le code généré par Claude code sur Pulseo pour que ça soit fiable pour les algorithmes.",
+                    "title": "Nettoyer code Claude pour Pulseo",
+                    "summary": "Réviser et fiabiliser le code généré par Claude sur Pulseo pour garantir sa robustesse avec les algorithmes. Action de maintenance qualité sur la base de code existante.",
+                    "score": null
+                }
+            ]
         }
     ]
 }
