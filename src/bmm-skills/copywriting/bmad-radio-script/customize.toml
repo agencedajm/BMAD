@@ -1,0 +1,37 @@
+# bmad-radio-script — Default configuration
+# Override in {project-root}/_bmad/custom/bmad-radio-script.toml (team)
+# or {project-root}/_bmad/custom/bmad-radio-script.user.toml (personal)
+
+[skill]
+name = "bmad-radio-script"
+display_name = "Write Radio Script"
+icon = "🎙️"
+
+# Default output format: "30" | "15" | "both"
+default_format = "both"
+
+# Default script language
+default_language = "French"
+
+# Default tone: "authentic" | "challenge" | "warm" | "ironic"
+default_tone = "authentic"
+
+# Default structure if not specified: "A" | "B" | "C" | "D"
+# A = Hook→Tension→Reveal | B = In Medias Res | C = Mirror | D = Open Question
+default_structure = "A"
+
+# Steps to run before activation (optional)
+activation_steps_prepend = []
+
+# Steps to run after activation (optional)
+activation_steps_append = []
+
+# Persistent facts carried throughout the session
+# Each entry is a literal fact or a file: reference (globs supported)
+persistent_facts = [
+  "A 30\" radio script must not exceed 80 words at 2.5 words/second.",
+  "The hook fires in the first 3 seconds. No greeting, no brand name, no slow build.",
+  "Never open with HR jargon. Never use 'rejoignez notre équipe dynamique'.",
+  "Silence of 0.7\"–1\" before the reveal is mandatory for emotional impact.",
+  "The brand speaks after the penny drop moment, never before.",
+]
