@@ -1485,6 +1485,32 @@
                     "score": null
                 }
             ]
+        },
+        {
+            "id": "7bedd810-adbf-4860-8854-5f47f290bb22",
+            "created_at": "2026-06-27T22:54:25+02:00",
+            "status": "new",
+            "urgent": false,
+            "content_type": "note",
+            "category": "Note",
+            "idea_type": "note",
+            "main_function": "",
+            "score": null,
+            "scores": null,
+            "score_details": null,
+            "bonuses_applied": [],
+            "maluses_applied": [],
+            "verdict": "",
+            "versions": [
+                {
+                    "version": 1,
+                    "created_at": "2026-06-27T22:54:25+02:00",
+                    "transcript": "Note :\r\nVivre libre c’est mourrir une fois. Vivre esclave, c’est vivre 1000 morts",
+                    "title": "Liberté vs esclavage mental",
+                    "summary": "Citation philosophique contrastant la liberté (même mortelle) avec l'asservissement (mille petites morts). Réflexion sur le coût existentiel de perdre son autonomie.",
+                    "score": null
+                }
+            ]
         }
     ]
 }
